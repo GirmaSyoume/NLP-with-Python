@@ -1,0 +1,841 @@
+,,left_side,right_side,similarity
+0,0,"Hilton Garden Inn Seattle Downtown 1821 Boren Avenue, Seattle Washington 98101 USA_a","Hilton Garden Inn Seattle Downtown 1821 Boren Avenue, Seattle Washington 98101 USA_a",1
+0,1,"Hilton Garden Inn Seattle Downtown 1821 Boren Avenue, Seattle Washington 98101 USA_a","Hilton Garden Inn Seattle Downtown 1821 Boren Ave, Seattle WA 98101 USA_A",0.602444128
+0,2,"Hilton Garden Inn Seattle Downtown 1821 Boren Avenue, Seattle Washington 98101 USA_a","Hilton Seattle 1301 6th Avenue Seattle, Washington, 98101-2314, USA_0",0.202655241
+0,3,"Hilton Garden Inn Seattle Downtown 1821 Boren Avenue, Seattle Washington 98101 USA_a","Sheraton Grand Seattle 1400 6th Avenue, Seattle, Washington 98101 USA_0",0.18770997
+0,4,"Hilton Garden Inn Seattle Downtown 1821 Boren Avenue, Seattle Washington 98101 USA_a","The Westin Seattle 1900 5th Avenue, Seattle, Washington 98101 USA_0",0.186850504
+1,5,"Sheraton Grand Seattle 1400 6th Avenue, Seattle, Washington 98101 USA_0","Sheraton Grand Seattle 1400 6th Avenue, Seattle, Washington 98101 USA_0",1
+1,6,"Sheraton Grand Seattle 1400 6th Avenue, Seattle, Washington 98101 USA_0","Hilton Seattle 1301 6th Avenue Seattle, Washington, 98101-2314, USA_0",0.347130464
+1,7,"Sheraton Grand Seattle 1400 6th Avenue, Seattle, Washington 98101 USA_0","The Westin Seattle 1900 5th Avenue, Seattle, Washington 98101 USA_0",0.326833934
+1,8,"Sheraton Grand Seattle 1400 6th Avenue, Seattle, Washington 98101 USA_0","Hilton Garden Inn Seattle Downtown 1821 Boren Avenue, Seattle Washington 98101 USA_a",0.18770997
+1,9,"Sheraton Grand Seattle 1400 6th Avenue, Seattle, Washington 98101 USA_0","Travelodge Seattle by The Space Needle 200 6th Avenue North, Seattle, Washington 98109_0",0.088302421
+2,10,"Crowne Plaza Seattle Downtown 1113 6th Ave, Seattle, WA 98101_0","Crowne Plaza Seattle Downtown 1113 6th Ave, Seattle, WA 98101_0",1
+2,11,"Crowne Plaza Seattle Downtown 1113 6th Ave, Seattle, WA 98101_0","Crowne Plaza Seattle 1113 6th Ave, Seattle, Washington 98101_0",0.462001401
+2,12,"Crowne Plaza Seattle Downtown 1113 6th Ave, Seattle, WA 98101_0","Inn at the WAC 1325 6th Ave, Seattle, WA 98101_0",0.196512014
+2,13,"Crowne Plaza Seattle Downtown 1113 6th Ave, Seattle, WA 98101_0","Crowne Plaza Seattle Airport 17338 International Blvd, Seattle, WA 98188_0",0.192813241
+2,14,"Crowne Plaza Seattle Downtown 1113 6th Ave, Seattle, WA 98101_0","Hyatt Place Seattle 110 6th Ave N, Seattle, WA 98109_0",0.155014772
+3,15,"Kimpton Hotel Monaco Seattle  1101 4th Ave, Seattle, WA98101_0","Kimpton Hotel Monaco Seattle  1101 4th Ave, Seattle, WA98101_0",1
+3,16,"Kimpton Hotel Monaco Seattle  1101 4th Ave, Seattle, WA98101_0","W Seattle 1112 4th Ave, Seattle, WA 98101_0",0.122074011
+3,17,"Kimpton Hotel Monaco Seattle  1101 4th Ave, Seattle, WA98101_0","Hotel Andra 2000 4th Ave, Seattle, WA 98121_0",0.110194291
+3,18,"Kimpton Hotel Monaco Seattle  1101 4th Ave, Seattle, WA98101_0","Vermont Inn 2721 4th Ave, Seattle, WA 98121_0",0.100865747
+3,19,"Kimpton Hotel Monaco Seattle  1101 4th Ave, Seattle, WA98101_0","Stay Alfred on 4th Avenue 2201 4th Ave, Seattle, WA 98121_0",0.093476812
+4,20,"The Westin Seattle 1900 5th Avenue, Seattle, Washington 98101 USA_0","The Westin Seattle 1900 5th Avenue, Seattle, Washington 98101 USA_0",1
+4,21,"The Westin Seattle 1900 5th Avenue, Seattle, Washington 98101 USA_0","Sheraton Grand Seattle 1400 6th Avenue, Seattle, Washington 98101 USA_0",0.326833934
+4,22,"The Westin Seattle 1900 5th Avenue, Seattle, Washington 98101 USA_0","Hilton Seattle 1301 6th Avenue Seattle, Washington, 98101-2314, USA_0",0.231415666
+4,23,"The Westin Seattle 1900 5th Avenue, Seattle, Washington 98101 USA_0","Hilton Garden Inn Seattle Downtown 1821 Boren Avenue, Seattle Washington 98101 USA_a",0.186850504
+4,24,"The Westin Seattle 1900 5th Avenue, Seattle, Washington 98101 USA_0","Travelodge Seattle by The Space Needle 200 6th Avenue North, Seattle, Washington 98109_0",0.0538105
+5,25,"The Paramount Hotel Seattle 724 Pine Street, Seattle Central Business District, Seattle, WA 98101_0","The Paramount Hotel Seattle 724 Pine Street, Seattle Central Business District, Seattle, WA 98101_0",1
+5,26,"The Paramount Hotel Seattle 724 Pine Street, Seattle Central Business District, Seattle, WA 98101_0","Hotel Seattle 315 Seneca Street, Seattle, WA 98101_0",0.099203019
+5,27,"The Paramount Hotel Seattle 724 Pine Street, Seattle Central Business District, Seattle, WA 98101_0","Palihotel Seattle 107 Pine St, Seattle, WA 98101_0",0.065681896
+5,28,"The Paramount Hotel Seattle 724 Pine Street, Seattle Central Business District, Seattle, WA 98101_0","Inn at the Market 86 Pine St, Seattle, WA 98101_0",0.064036147
+5,29,"The Paramount Hotel Seattle 724 Pine Street, Seattle Central Business District, Seattle, WA 98101_0","Hotel Seattle 316 Seneca St, Seattle, WA 98101_0",0.06056218
+6,30,"Hilton Seattle 1301 6th Avenue Seattle, Washington, 98101-2314, USA_0","Hilton Seattle 1301 6th Avenue Seattle, Washington, 98101-2314, USA_0",1
+6,31,"Hilton Seattle 1301 6th Avenue Seattle, Washington, 98101-2314, USA_0","Sheraton Grand Seattle 1400 6th Avenue, Seattle, Washington 98101 USA_0",0.347130464
+6,32,"Hilton Seattle 1301 6th Avenue Seattle, Washington, 98101-2314, USA_0","The Westin Seattle 1900 5th Avenue, Seattle, Washington 98101 USA_0",0.231415666
+6,33,"Hilton Seattle 1301 6th Avenue Seattle, Washington, 98101-2314, USA_0","Hilton Garden Inn Seattle Downtown 1821 Boren Avenue, Seattle Washington 98101 USA_a",0.202655241
+6,34,"Hilton Seattle 1301 6th Avenue Seattle, Washington, 98101-2314, USA_0","Travelodge Seattle by The Space Needle 200 6th Avenue North, Seattle, Washington 98109_0",0.088952699
+7,35,"Motif Seattle 1415 Fifth Ave Seattle, WA 98101 _0","Motif Seattle 1415 Fifth Ave Seattle, WA 98101 _0",1
+7,36,"Motif Seattle 1415 Fifth Ave Seattle, WA 98101 _0","Hilton Garden Inn Seattle Downtown 1821 Boren Ave, Seattle WA 98101 USA_A",0.142762704
+7,37,"Motif Seattle 1415 Fifth Ave Seattle, WA 98101 _0","W Seattle 1112 4th Ave, Seattle, WA 98101_0",0.030825109
+7,38,"Motif Seattle 1415 Fifth Ave Seattle, WA 98101 _0","Hilton Seattle 1301 6th Avenue Seattle, Washington, 98101-2314, USA_0",0.028725522
+7,39,"Motif Seattle 1415 Fifth Ave Seattle, WA 98101 _0","Sheraton Grand Seattle 1400 6th Avenue, Seattle, Washington 98101 USA_0",0.028515528
+8,40,"Warwick Seattle 401 Lenora Street Seattle, Washington 98121_0","Warwick Seattle 401 Lenora Street Seattle, Washington 98121_0",1
+8,41,"Warwick Seattle 401 Lenora Street Seattle, Washington 98121_0","Renaissance Seattle Hotel 515 Madison Street, Seattle, Washington 98104_0",0.125903501
+8,42,"Warwick Seattle 401 Lenora Street Seattle, Washington 98121_0","Quality Inn & Suites Seattle Center 618 John Street, Seattle, Washington 98109_0",0.114861555
+8,43,"Warwick Seattle 401 Lenora Street Seattle, Washington 98121_0","Hotel Seattle 315 Seneca Street, Seattle, WA 98101_0",0.063223923
+8,44,"Warwick Seattle 401 Lenora Street Seattle, Washington 98121_0","Roy Street Commons 621 12th Avenue East, Seattle, Washington 98102_0",0.053295262
+9,45,"Hilton Garden Inn Seattle Downtown 1821 Boren Ave, Seattle WA 98101 USA_A","Hilton Garden Inn Seattle Downtown 1821 Boren Ave, Seattle WA 98101 USA_A",1
+9,46,"Hilton Garden Inn Seattle Downtown 1821 Boren Ave, Seattle WA 98101 USA_A","Hilton Garden Inn Seattle Downtown 1821 Boren Avenue, Seattle Washington 98101 USA_a",0.602444128
+9,47,"Hilton Garden Inn Seattle Downtown 1821 Boren Ave, Seattle WA 98101 USA_A","Motif Seattle 1415 Fifth Ave Seattle, WA 98101 _0",0.142762704
+9,48,"Hilton Garden Inn Seattle Downtown 1821 Boren Ave, Seattle WA 98101 USA_A","Holiday Inn Seattle Downtown 211 Dexter Ave N, Seattle, WA 98109_0",0.109785879
+9,49,"Hilton Garden Inn Seattle Downtown 1821 Boren Ave, Seattle WA 98101 USA_A","Homewood Suites by Hilton Seattle Downtown 206 Western Ave W, Seattle, WA 98119_0",0.058847416
+10,50,"Four Seasons Hotel Seattle 99 Union St, Seattle, WA 98101_0","Four Seasons Hotel Seattle 99 Union St, Seattle, WA 98101_0",1
+10,51,"Four Seasons Hotel Seattle 99 Union St, Seattle, WA 98101_0","Hotel Seattle 316 Seneca St, Seattle, WA 98101_0",0.139732501
+10,52,"Four Seasons Hotel Seattle 99 Union St, Seattle, WA 98101_0","Hotel Max 620 Stewart St, Seattle, WA 98101_0",0.116112072
+10,53,"Four Seasons Hotel Seattle 99 Union St, Seattle, WA 98101_0","Thompson Seattle 110 Stewart St, Seattle, WA 98101_0",0.110966176
+10,54,"Four Seasons Hotel Seattle 99 Union St, Seattle, WA 98101_0","Palihotel Seattle 107 Pine St, Seattle, WA 98101_0",0.109236111
+11,55,"W Seattle 1112 4th Ave, Seattle, WA 98101_0","W Seattle 1112 4th Ave, Seattle, WA 98101_0",1
+11,56,"W Seattle 1112 4th Ave, Seattle, WA 98101_0","Hotel Andra 2000 4th Ave, Seattle, WA 98121_0",0.210724586
+11,57,"W Seattle 1112 4th Ave, Seattle, WA 98101_0","Vermont Inn 2721 4th Ave, Seattle, WA 98121_0",0.209640844
+11,58,"W Seattle 1112 4th Ave, Seattle, WA 98101_0","Stay Alfred on 4th Avenue 2201 4th Ave, Seattle, WA 98121_0",0.184859799
+11,59,"W Seattle 1112 4th Ave, Seattle, WA 98101_0","Stay Alfred on Wall Street 2515 4th Ave, Seattle, WA 98121_0",0.161669275
+12,60,"Crowne Plaza Seattle 1113 6th Ave, Seattle, Washington 98101_0","Crowne Plaza Seattle 1113 6th Ave, Seattle, Washington 98101_0",1
+12,61,"Crowne Plaza Seattle 1113 6th Ave, Seattle, Washington 98101_0","Crowne Plaza Seattle Downtown 1113 6th Ave, Seattle, WA 98101_0",0.462001401
+12,62,"Crowne Plaza Seattle 1113 6th Ave, Seattle, Washington 98101_0","Crowne Plaza Seattle Airport 17338 International Blvd, Seattle, WA 98188_0",0.183082742
+12,63,"Crowne Plaza Seattle 1113 6th Ave, Seattle, Washington 98101_0","Inn at the WAC 1325 6th Ave, Seattle, WA 98101_0",0.107736749
+12,64,"Crowne Plaza Seattle 1113 6th Ave, Seattle, Washington 98101_0","Hyatt Place Seattle 110 6th Ave N, Seattle, WA 98109_0",0.105821436
+13,65,"Gand Hyatt Seattle 721 Pine St, Seattle, WA 98101_0","Gand Hyatt Seattle 721 Pine St, Seattle, WA 98101_0",1
+13,66,"Gand Hyatt Seattle 721 Pine St, Seattle, WA 98101_0","Palihotel Seattle 107 Pine St, Seattle, WA 98101_0",0.285484393
+13,67,"Gand Hyatt Seattle 721 Pine St, Seattle, WA 98101_0","Inn at the Market 86 Pine St, Seattle, WA 98101_0",0.240826138
+13,68,"Gand Hyatt Seattle 721 Pine St, Seattle, WA 98101_0","Hyatt Regency Seattle 808 Howell St, Seattle, WA 98101_0",0.131533351
+13,69,"Gand Hyatt Seattle 721 Pine St, Seattle, WA 98101_0","Hotel Seattle 316 Seneca St, Seattle, WA 98101_0",0.119964539
+14,70,"Kimpton Alexis Hotel 1007 1st Ave, Seattle, WA 98104_0","Kimpton Alexis Hotel 1007 1st Ave, Seattle, WA 98104_0",1
+14,71,"Kimpton Alexis Hotel 1007 1st Ave, Seattle, WA 98104_0","Loews Hotel 1000, Seattle 1000 1st Ave, Seattle, WA 98104_0",0.211606233
+14,72,"Kimpton Alexis Hotel 1007 1st Ave, Seattle, WA 98104_0","Ace Hotel Seattle 2423 1st Ave, Seattle, WA 98121_0",0.148948907
+14,73,"Kimpton Alexis Hotel 1007 1st Ave, Seattle, WA 98104_0","Ace Hotel Seattle 2423 1st Ave, Seattle, WA 98121_0",0.148948907
+14,74,"Kimpton Alexis Hotel 1007 1st Ave, Seattle, WA 98104_0","Inn at Queen Anne 505 1st Ave N, Seattle, WA 98109_0",0.11767446
+15,75,"Hotel Max 620 Stewart St, Seattle, WA 98101_0","Hotel Max 620 Stewart St, Seattle, WA 98101_0",1
+15,76,"Hotel Max 620 Stewart St, Seattle, WA 98101_0","Thompson Seattle 110 Stewart St, Seattle, WA 98101_0",0.305328467
+15,77,"Hotel Max 620 Stewart St, Seattle, WA 98101_0","Pike's Place Lux Suites by Barsala 2nd Ave and Stewart St, Seattle, WA 98101_A",0.150801712
+15,78,"Hotel Max 620 Stewart St, Seattle, WA 98101_0","Pike's Place Lux Suites by Barsala 2rd Ave and Stewart St, Seattle, WA 98101_a",0.14894489
+15,79,"Hotel Max 620 Stewart St, Seattle, WA 98101_0","Hotel Seattle 316 Seneca St, Seattle, WA 98101_0",0.140806814
+16,80,"Ace Hotel Seattle 2423 1st Ave, Seattle, WA 98121_0","Ace Hotel Seattle 2423 1st Ave, Seattle, WA 98121_0",1
+16,81,"Ace Hotel Seattle 2423 1st Ave, Seattle, WA 98121_0","Ace Hotel Seattle 2423 1st Ave, Seattle, WA 98121_0",1
+16,82,"Ace Hotel Seattle 2423 1st Ave, Seattle, WA 98121_0","The Inn at El Gaucho 2505 1st Ave, Seattle, WA 98121_0",0.192123062
+16,83,"Ace Hotel Seattle 2423 1st Ave, Seattle, WA 98121_0","Kimpton Alexis Hotel 1007 1st Ave, Seattle, WA 98104_0",0.148948907
+16,84,"Ace Hotel Seattle 2423 1st Ave, Seattle, WA 98121_0","Silver Cloud Hotel - Seattle Stadium 1046 1st Ave S, Seattle, WA 98134_0",0.146335652
+17,85,"Seattle Marriott Waterfront 2100 Alaskan Way, Seattle, WA 98121_0","Seattle Marriott Waterfront 2100 Alaskan Way, Seattle, WA 98121_0",1
+17,86,"Seattle Marriott Waterfront 2100 Alaskan Way, Seattle, WA 98121_0","The Edgewater Hotel Seattle 2411 Alaskan Way, Seattle, WA 98121_0",0.316142241
+17,87,"Seattle Marriott Waterfront 2100 Alaskan Way, Seattle, WA 98121_0","Mayflower Park Hotel 405 Olive Way, Seattle, WA 98101_0",0.086252701
+17,88,"Seattle Marriott Waterfront 2100 Alaskan Way, Seattle, WA 98121_0","Bed and Breakfast Inn Seattle 1808 E Denny Way, Seattle, WA 98122_0",0.079031238
+17,89,"Seattle Marriott Waterfront 2100 Alaskan Way, Seattle, WA 98121_0","Best Western Plus Pioneer Square Hotel Downtown 77 Yesler Way, Seattle, WA 98104_0",0.06715912
+18,90,"The Edgewater Hotel Seattle 2411 Alaskan Way, Seattle, WA 98121_0","The Edgewater Hotel Seattle 2411 Alaskan Way, Seattle, WA 98121_0",1
+18,91,"The Edgewater Hotel Seattle 2411 Alaskan Way, Seattle, WA 98121_0","Seattle Marriott Waterfront 2100 Alaskan Way, Seattle, WA 98121_0",0.316142241
+18,92,"The Edgewater Hotel Seattle 2411 Alaskan Way, Seattle, WA 98121_0","Ace Hotel Seattle 2423 1st Ave, Seattle, WA 98121_0",0.090275823
+18,93,"The Edgewater Hotel Seattle 2411 Alaskan Way, Seattle, WA 98121_0","Ace Hotel Seattle 2423 1st Ave, Seattle, WA 98121_0",0.090275823
+18,94,"The Edgewater Hotel Seattle 2411 Alaskan Way, Seattle, WA 98121_0","Mayflower Park Hotel 405 Olive Way, Seattle, WA 98101_0",0.08937157
+19,95,"SpringHill Suites Seattle Downtown 1800 Yale Ave, Seattle, WA 98101_0","SpringHill Suites Seattle Downtown 1800 Yale Ave, Seattle, WA 98101_0",1
+19,96,"SpringHill Suites Seattle Downtown 1800 Yale Ave, Seattle, WA 98101_0","La Quinta Inn & Suites Seattle Downtown 2224 8th Ave, Seattle, WA 98121_0",0.116564106
+19,97,"SpringHill Suites Seattle Downtown 1800 Yale Ave, Seattle, WA 98101_0","Crowne Plaza Seattle Downtown 1113 6th Ave, Seattle, WA 98101_0",0.113347192
+19,98,"SpringHill Suites Seattle Downtown 1800 Yale Ave, Seattle, WA 98101_0","W Seattle 1112 4th Ave, Seattle, WA 98101_0",0.10447681
+19,99,"SpringHill Suites Seattle Downtown 1800 Yale Ave, Seattle, WA 98101_0","Staybridge Suites Seattle Downtown - Lake Union 1119 Mercer St, Seattle, WA 98109_0",0.102017548
+20,100,"Fairmont Olympic Hotel 411 University St, Seattle, WA 98101_0","Fairmont Olympic Hotel 411 University St, Seattle, WA 98101_0",1
+20,101,"Fairmont Olympic Hotel 411 University St, Seattle, WA 98101_0","Hotel Seattle 316 Seneca St, Seattle, WA 98101_0",0.123241923
+20,102,"Fairmont Olympic Hotel 411 University St, Seattle, WA 98101_0","Hotel Max 620 Stewart St, Seattle, WA 98101_0",0.120018123
+20,103,"Fairmont Olympic Hotel 411 University St, Seattle, WA 98101_0","Thompson Seattle 110 Stewart St, Seattle, WA 98101_0",0.113651654
+20,104,"Fairmont Olympic Hotel 411 University St, Seattle, WA 98101_0","Palihotel Seattle 107 Pine St, Seattle, WA 98101_0",0.11187972
+21,105,"La Quinta Inn & Suites Seattle Downtown 2224 8th Ave, Seattle, WA 98121_0","La Quinta Inn & Suites Seattle Downtown 2224 8th Ave, Seattle, WA 98121_0",1
+21,106,"La Quinta Inn & Suites Seattle Downtown 2224 8th Ave, Seattle, WA 98121_0","The Loyal Inn 2301 8th Ave, Seattle, WA 98121_0",0.210473347
+21,107,"La Quinta Inn & Suites Seattle Downtown 2224 8th Ave, Seattle, WA 98121_0","Hyatt At Olive 9 1635 8th Ave, Seattle, WA 98101_0",0.148789531
+21,108,"La Quinta Inn & Suites Seattle Downtown 2224 8th Ave, Seattle, WA 98121_0","Hyatt At Olive 8 1635 8th Ave, Seattle, WA 98101_0",0.148789531
+21,109,"La Quinta Inn & Suites Seattle Downtown 2224 8th Ave, Seattle, WA 98121_0","SpringHill Suites Seattle Downtown 1800 Yale Ave, Seattle, WA 98101_0",0.116564106
+22,110,"Embassy Suites by Hilton Seattle Downtown Pioneer Square 255 S King St, Seattle, WA 98104_0","Embassy Suites by Hilton Seattle Downtown Pioneer Square 255 S King St, Seattle, WA 98104_0",1
+22,111,"Embassy Suites by Hilton Seattle Downtown Pioneer Square 255 S King St, Seattle, WA 98104_0","Courtyard by Marriott Seattle Downtown/Pioneer Square 612 2nd Ave, Seattle, WA 98104_0",0.25658234
+22,112,"Embassy Suites by Hilton Seattle Downtown Pioneer Square 255 S King St, Seattle, WA 98104_0","Homewood Suites by Hilton Seattle Downtown 206 Western Ave W, Seattle, WA 98119_0",0.226694291
+22,113,"Embassy Suites by Hilton Seattle Downtown Pioneer Square 255 S King St, Seattle, WA 98104_0","Embassy Suites by Hilton Seattle Tacoma International Airport 15920 W Valley Hwy, Seattle, WA 98188_0",0.223176176
+22,114,"Embassy Suites by Hilton Seattle Downtown Pioneer Square 255 S King St, Seattle, WA 98104_0","Hostelling International Seattle at the American Hotel 520 S King St, Seattle, WA 98104_0",0.18134876
+23,115,"Pan Pacific Seattle 2125 Terry Ave, Seattle, WA 98121_0","Pan Pacific Seattle 2125 Terry Ave, Seattle, WA 98121_0",1
+23,116,"Pan Pacific Seattle 2125 Terry Ave, Seattle, WA 98121_0","Residence Inn by Marriott Seattle Downtown/Convention Center 1815 Terry Ave, Seattle, WA 98101_0",0.149937228
+23,117,"Pan Pacific Seattle 2125 Terry Ave, Seattle, WA 98121_0","Ace Hotel Seattle 2423 1st Ave, Seattle, WA 98121_0",0.105837088
+23,118,"Pan Pacific Seattle 2125 Terry Ave, Seattle, WA 98121_0","Ace Hotel Seattle 2423 1st Ave, Seattle, WA 98121_0",0.105837088
+23,119,"Pan Pacific Seattle 2125 Terry Ave, Seattle, WA 98121_0","Hotel Andra 2000 4th Ave, Seattle, WA 98121_0",0.104830917
+24,120,"Kimpton Hotel Vintage Seattle 1100 5th Ave, Seattle, WA 98101_0","Kimpton Hotel Vintage Seattle 1100 5th Ave, Seattle, WA 98101_0",1
+24,121,"Kimpton Hotel Vintage Seattle 1100 5th Ave, Seattle, WA 98101_0","Kings Inn 2106 5th Ave, Seattle, WA 98121_0",0.170029137
+24,122,"Kimpton Hotel Vintage Seattle 1100 5th Ave, Seattle, WA 98101_0","Hyatt House Seattle 201 5th Ave N, Seattle, WA 98109_0",0.15878991
+24,123,"Kimpton Hotel Vintage Seattle 1100 5th Ave, Seattle, WA 98101_0","Hotel Five - A Staypineapple Hotel 2200 5th Ave, Seattle, WA 98121_0",0.155129196
+24,124,"Kimpton Hotel Vintage Seattle 1100 5th Ave, Seattle, WA 98101_0","W Seattle 1112 4th Ave, Seattle, WA 98101_0",0.104653029
+25,125,"Hyatt Place Seattle 110 6th Ave N, Seattle, WA 98109_0","Hyatt Place Seattle 110 6th Ave N, Seattle, WA 98109_0",1
+25,126,"Hyatt Place Seattle 110 6th Ave N, Seattle, WA 98109_0","Travelodge Seattle by The Space Needle 200 6th Ave N, Seattle, WA 98109_0",0.198883783
+25,127,"Hyatt Place Seattle 110 6th Ave N, Seattle, WA 98109_0","Crowne Plaza Seattle Downtown 1113 6th Ave, Seattle, WA 98101_0",0.155014772
+25,128,"Hyatt Place Seattle 110 6th Ave N, Seattle, WA 98109_0","Inn at the WAC 1325 6th Ave, Seattle, WA 98101_0",0.148661114
+25,129,"Hyatt Place Seattle 110 6th Ave N, Seattle, WA 98109_0","Hyatt House Seattle 201 5th Ave N, Seattle, WA 98109_0",0.126162532
+26,130,"Hyatt House Seattle 201 5th Ave N, Seattle, WA 98109_0","Hyatt House Seattle 201 5th Ave N, Seattle, WA 98109_0",1
+26,131,"Hyatt House Seattle 201 5th Ave N, Seattle, WA 98109_0","Kings Inn 2106 5th Ave, Seattle, WA 98121_0",0.185066029
+26,132,"Hyatt House Seattle 201 5th Ave N, Seattle, WA 98109_0","Kimpton Hotel Vintage Seattle 1100 5th Ave, Seattle, WA 98101_0",0.15878991
+26,133,"Hyatt House Seattle 201 5th Ave N, Seattle, WA 98109_0","Hotel Five - A Staypineapple Hotel 2200 5th Ave, Seattle, WA 98121_0",0.154991968
+26,134,"Hyatt House Seattle 201 5th Ave N, Seattle, WA 98109_0","Hyatt Place Seattle 110 6th Ave N, Seattle, WA 98109_0",0.126162532
+27,135,"Inn at the Market 86 Pine St, Seattle, WA 98101_0","Inn at the Market 86 Pine St, Seattle, WA 98101_0",1
+27,136,"Inn at the Market 86 Pine St, Seattle, WA 98101_0","Palihotel Seattle 107 Pine St, Seattle, WA 98101_0",0.265927506
+27,137,"Inn at the Market 86 Pine St, Seattle, WA 98101_0","Gand Hyatt Seattle 721 Pine St, Seattle, WA 98101_0",0.240826138
+27,138,"Inn at the Market 86 Pine St, Seattle, WA 98101_0","Inn at the WAC 1325 6th Ave, Seattle, WA 98101_0",0.187592152
+27,139,"Inn at the Market 86 Pine St, Seattle, WA 98101_0","Hotel Seattle 316 Seneca St, Seattle, WA 98101_0",0.110395373
+28,140,"Ace Hotel Seattle 2423 1st Ave, Seattle, WA 98121_0","Ace Hotel Seattle 2423 1st Ave, Seattle, WA 98121_0",1
+28,141,"Ace Hotel Seattle 2423 1st Ave, Seattle, WA 98121_0","Ace Hotel Seattle 2423 1st Ave, Seattle, WA 98121_0",1
+28,142,"Ace Hotel Seattle 2423 1st Ave, Seattle, WA 98121_0","The Inn at El Gaucho 2505 1st Ave, Seattle, WA 98121_0",0.192123062
+28,143,"Ace Hotel Seattle 2423 1st Ave, Seattle, WA 98121_0","Kimpton Alexis Hotel 1007 1st Ave, Seattle, WA 98104_0",0.148948907
+28,144,"Ace Hotel Seattle 2423 1st Ave, Seattle, WA 98121_0","Silver Cloud Hotel - Seattle Stadium 1046 1st Ave S, Seattle, WA 98134_0",0.146335652
+29,145,"Moxy Seattle Downtown 1016 Republican St, Seattle, WA 98109_0","Moxy Seattle Downtown 1016 Republican St, Seattle, WA 98109_0",1
+29,146,"Moxy Seattle Downtown 1016 Republican St, Seattle, WA 98109_0","Staybridge Suites Seattle Downtown - Lake Union 1119 Mercer St, Seattle, WA 98109_0",0.134648109
+29,147,"Moxy Seattle Downtown 1016 Republican St, Seattle, WA 98109_0","Quality Inn & Suites Seattle Center 618 John St, Seattle, WA 98109_0",0.111385923
+29,148,"Moxy Seattle Downtown 1016 Republican St, Seattle, WA 98109_0","Four Points by Sheraton Downtown Seattle Center 601 Roy St, Seattle, WA 98109_0",0.10878899
+29,149,"Moxy Seattle Downtown 1016 Republican St, Seattle, WA 98109_0","The Maxwell Hotel - A Staypineapple Hotel 300 Roy St, Seattle, WA 98109_0",0.104265449
+30,150,"Thompson Seattle 110 Stewart St, Seattle, WA 98101_0","Thompson Seattle 110 Stewart St, Seattle, WA 98101_0",1
+30,151,"Thompson Seattle 110 Stewart St, Seattle, WA 98101_0","Hotel Max 620 Stewart St, Seattle, WA 98101_0",0.305328467
+30,152,"Thompson Seattle 110 Stewart St, Seattle, WA 98101_0","Pike's Place Lux Suites by Barsala 2nd Ave and Stewart St, Seattle, WA 98101_A",0.153730361
+30,153,"Thompson Seattle 110 Stewart St, Seattle, WA 98101_0","Pike's Place Lux Suites by Barsala 2rd Ave and Stewart St, Seattle, WA 98101_a",0.151837479
+30,154,"Thompson Seattle 110 Stewart St, Seattle, WA 98101_0","Hotel Seattle 316 Seneca St, Seattle, WA 98101_0",0.134566488
+31,155,"Holiday Inn Seattle Downtown 211 Dexter Ave N, Seattle, WA 98109_0","Holiday Inn Seattle Downtown 211 Dexter Ave N, Seattle, WA 98109_0",1
+31,156,"Holiday Inn Seattle Downtown 211 Dexter Ave N, Seattle, WA 98109_0","Oakwood Seattle South Lake Union 717 Dexter Ave N, Seattle, WA 98109_0",0.230189874
+31,157,"Holiday Inn Seattle Downtown 211 Dexter Ave N, Seattle, WA 98109_0","Holiday Inn Express & Suites Seattle-City Center 226 Aurora Ave N, Seattle, WA 98109_0",0.140234043
+31,158,"Holiday Inn Seattle Downtown 211 Dexter Ave N, Seattle, WA 98109_0","Hilton Garden Inn Seattle Downtown 1821 Boren Ave, Seattle WA 98101 USA_A",0.109785879
+31,159,"Holiday Inn Seattle Downtown 211 Dexter Ave N, Seattle, WA 98109_0","Residence Inn by Marriott Seattle Downtown/Lake Union 800 Fairview Ave N, Seattle, WA 98109_0",0.105779831
+32,160,"Executive Hotel Pacific 400 Spring St, Seattle, WA 98104_0","Executive Hotel Pacific 400 Spring St, Seattle, WA 98104_0",1
+32,161,"Executive Hotel Pacific 400 Spring St, Seattle, WA 98104_0","The Baroness Hotel 1005 Spring St, Seattle, WA 98104_0",0.285880552
+32,162,"Executive Hotel Pacific 400 Spring St, Seattle, WA 98104_0","The Inn at Virginia Mason 1006 Spring St, Seattle, WA 98104_0",0.239809572
+32,163,"Executive Hotel Pacific 400 Spring St, Seattle, WA 98104_0","Hotel Sorrento 900 Madison St, Seattle, WA 98104_0",0.146639162
+32,164,"Executive Hotel Pacific 400 Spring St, Seattle, WA 98104_0","Renaissance Seattle Hotel 515 Madison St, Seattle, WA 98104_0",0.141929998
+33,165,"Hotel Andra 2000 4th Ave, Seattle, WA 98121_0","Hotel Andra 2000 4th Ave, Seattle, WA 98121_0",1
+33,166,"Hotel Andra 2000 4th Ave, Seattle, WA 98121_0","Vermont Inn 2721 4th Ave, Seattle, WA 98121_0",0.267788729
+33,167,"Hotel Andra 2000 4th Ave, Seattle, WA 98121_0","Stay Alfred on 4th Avenue 2201 4th Ave, Seattle, WA 98121_0",0.226253186
+33,168,"Hotel Andra 2000 4th Ave, Seattle, WA 98121_0","W Seattle 1112 4th Ave, Seattle, WA 98101_0",0.210724586
+33,169,"Hotel Andra 2000 4th Ave, Seattle, WA 98121_0","Stay Alfred on Wall Street 2515 4th Ave, Seattle, WA 98121_0",0.206511331
+34,170,"Residence Inn by Marriott Seattle Downtown/Convention Center 1815 Terry Ave, Seattle, WA 98101_0","Residence Inn by Marriott Seattle Downtown/Convention Center 1815 Terry Ave, Seattle, WA 98101_0",1
+34,171,"Residence Inn by Marriott Seattle Downtown/Convention Center 1815 Terry Ave, Seattle, WA 98101_0","Residence Inn by Marriott Seattle Downtown/Lake Union 800 Fairview Ave N, Seattle, WA 98109_0",0.362563946
+34,172,"Residence Inn by Marriott Seattle Downtown/Convention Center 1815 Terry Ave, Seattle, WA 98101_0","Courtyard by Marriott Seattle Downtown/Pioneer Square 612 2nd Ave, Seattle, WA 98104_0",0.184642601
+34,173,"Residence Inn by Marriott Seattle Downtown/Convention Center 1815 Terry Ave, Seattle, WA 98101_0","Pan Pacific Seattle 2125 Terry Ave, Seattle, WA 98121_0",0.149937228
+34,174,"Residence Inn by Marriott Seattle Downtown/Convention Center 1815 Terry Ave, Seattle, WA 98101_0","Homewood Suites by Hilton Seattle Convention Center Pike Street 1011 Pike St, Seattle, WA 98101_0",0.096124485
+35,175,"Best Western Plus Pioneer Square Hotel Downtown 77 Yesler Way, Seattle, WA 98104_0","Best Western Plus Pioneer Square Hotel Downtown 77 Yesler Way, Seattle, WA 98104_0",1
+35,176,"Best Western Plus Pioneer Square Hotel Downtown 77 Yesler Way, Seattle, WA 98104_0","Courtyard by Marriott Seattle Downtown/Pioneer Square 612 2nd Ave, Seattle, WA 98104_0",0.118223128
+35,177,"Best Western Plus Pioneer Square Hotel Downtown 77 Yesler Way, Seattle, WA 98104_0","Embassy Suites by Hilton Seattle Downtown Pioneer Square 255 S King St, Seattle, WA 98104_0",0.11486711
+35,178,"Best Western Plus Pioneer Square Hotel Downtown 77 Yesler Way, Seattle, WA 98104_0","Best Western Seattle Airport Hotel 20717 International Blvd, Seattle, WA 98198_0",0.082450957
+35,179,"Best Western Plus Pioneer Square Hotel Downtown 77 Yesler Way, Seattle, WA 98104_0","Mayflower Park Hotel 405 Olive Way, Seattle, WA 98101_0",0.071024471
+36,180,"Travelodge Seattle by The Space Needle 200 6th Ave N, Seattle, WA 98109_0","Travelodge Seattle by The Space Needle 200 6th Ave N, Seattle, WA 98109_0",1
+36,181,"Travelodge Seattle by The Space Needle 200 6th Ave N, Seattle, WA 98109_0","Travelodge Seattle by The Space Needle 200 6th Avenue North, Seattle, Washington 98109_0",0.66997434
+36,182,"Travelodge Seattle by The Space Needle 200 6th Ave N, Seattle, WA 98109_0","Executive Inn By The Space Needle 200 Taylor Ave N, Seattle, WA 98109_0",0.42831932
+36,183,"Travelodge Seattle by The Space Needle 200 6th Ave N, Seattle, WA 98109_0","Hyatt Place Seattle 110 6th Ave N, Seattle, WA 98109_0",0.198883783
+36,184,"Travelodge Seattle by The Space Needle 200 6th Ave N, Seattle, WA 98109_0","Inn at the WAC 1325 6th Ave, Seattle, WA 98101_0",0.138873857
+37,185,"Homewood Suites by Hilton Seattle Convention Center Pike Street 1011 Pike St, Seattle, WA 98101_0","Homewood Suites by Hilton Seattle Convention Center Pike Street 1011 Pike St, Seattle, WA 98101_0",1
+37,186,"Homewood Suites by Hilton Seattle Convention Center Pike Street 1011 Pike St, Seattle, WA 98101_0","Homewood Suites by Hilton Seattle Downtown 206 Western Ave W, Seattle, WA 98119_0",0.229872319
+37,187,"Homewood Suites by Hilton Seattle Convention Center Pike Street 1011 Pike St, Seattle, WA 98101_0","Green Tortoise Hostel Seattle 105 Pike St, Seattle, WA 98101_0",0.194307286
+37,188,"Homewood Suites by Hilton Seattle Convention Center Pike Street 1011 Pike St, Seattle, WA 98101_0","Homewood Suites by Hilton Seattle-Tacoma Airport/Tukwila 6955 Fort Dent Way, Tukwila, WA 98188_0",0.18132539
+37,189,"Homewood Suites by Hilton Seattle Convention Center Pike Street 1011 Pike St, Seattle, WA 98101_0","Embassy Suites by Hilton Seattle Downtown Pioneer Square 255 S King St, Seattle, WA 98104_0",0.14070171
+38,190,"Hyatt Regency Seattle 808 Howell St, Seattle, WA 98101_0","Hyatt Regency Seattle 808 Howell St, Seattle, WA 98101_0",1
+38,191,"Hyatt Regency Seattle 808 Howell St, Seattle, WA 98101_0","Gand Hyatt Seattle 721 Pine St, Seattle, WA 98101_0",0.131533351
+38,192,"Hyatt Regency Seattle 808 Howell St, Seattle, WA 98101_0","Hotel Seattle 316 Seneca St, Seattle, WA 98101_0",0.118322569
+38,193,"Hyatt Regency Seattle 808 Howell St, Seattle, WA 98101_0","Thompson Seattle 110 Stewart St, Seattle, WA 98101_0",0.117989067
+38,194,"Hyatt Regency Seattle 808 Howell St, Seattle, WA 98101_0","Palihotel Seattle 107 Pine St, Seattle, WA 98101_0",0.116149509
+39,195,"Hotel Sorrento 900 Madison St, Seattle, WA 98104_0","Hotel Sorrento 900 Madison St, Seattle, WA 98104_0",1
+39,196,"Hotel Sorrento 900 Madison St, Seattle, WA 98104_0","Renaissance Seattle Hotel 515 Madison St, Seattle, WA 98104_0",0.342184261
+39,197,"Hotel Sorrento 900 Madison St, Seattle, WA 98104_0","The Baroness Hotel 1005 Spring St, Seattle, WA 98104_0",0.147638191
+39,198,"Hotel Sorrento 900 Madison St, Seattle, WA 98104_0","Executive Hotel Pacific 400 Spring St, Seattle, WA 98104_0",0.146639162
+39,199,"Hotel Sorrento 900 Madison St, Seattle, WA 98104_0","Panama Hotel and Tea House 605 S Main St, Seattle, WA 98104_0",0.122999236
+40,200,"City Hostel Seattle 2327 2nd Ave, Seattle, WA 98121_0","City Hostel Seattle 2327 2nd Ave, Seattle, WA 98121_0",1
+40,201,"City Hostel Seattle 2327 2nd Ave, Seattle, WA 98121_0","Kimpton Palladian Hotel 2000 2nd Ave, Seattle, WA 98121_0",0.22014705
+40,202,"City Hostel Seattle 2327 2nd Ave, Seattle, WA 98121_0","Moore Hotel 1926 2nd Ave, Seattle, WA 98101_0",0.163563513
+40,203,"City Hostel Seattle 2327 2nd Ave, Seattle, WA 98121_0","The State Hotel 1501 2nd Ave, Seattle, WA 98101_0",0.148111554
+40,204,"City Hostel Seattle 2327 2nd Ave, Seattle, WA 98121_0","Courtyard by Marriott Seattle Downtown/Pioneer Square 612 2nd Ave, Seattle, WA 98104_0",0.115813449
+41,205,"Holiday Inn Express & Suites Seattle-City Center 226 Aurora Ave N, Seattle, WA 98109_0","Holiday Inn Express & Suites Seattle-City Center 226 Aurora Ave N, Seattle, WA 98109_0",1
+41,206,"Holiday Inn Express & Suites Seattle-City Center 226 Aurora Ave N, Seattle, WA 98109_0","Holiday Inn Express & Suites Seattle City Center 226 Aurora Avenue North, Seattle, Washington 98109_0",0.712320966
+41,207,"Holiday Inn Express & Suites Seattle-City Center 226 Aurora Ave N, Seattle, WA 98109_0","Holiday Inn Express & Suites North Seattle - Shoreline 14115 Aurora Ave N, Seattle, WA 98133_0",0.296717837
+41,208,"Holiday Inn Express & Suites Seattle-City Center 226 Aurora Ave N, Seattle, WA 98109_0","Holiday Inn Seattle Downtown 211 Dexter Ave N, Seattle, WA 98109_0",0.140234043
+41,209,"Holiday Inn Express & Suites Seattle-City Center 226 Aurora Ave N, Seattle, WA 98109_0","Staybridge Suites Seattle - Fremont 3926 Aurora Ave N, Seattle, WA 98103_0",0.122876687
+42,210,"Travelodge Seattle by The Space Needle 200 6th Avenue North, Seattle, Washington 98109_0","Travelodge Seattle by The Space Needle 200 6th Avenue North, Seattle, Washington 98109_0",1
+42,211,"Travelodge Seattle by The Space Needle 200 6th Avenue North, Seattle, Washington 98109_0","Travelodge Seattle by The Space Needle 200 6th Ave N, Seattle, WA 98109_0",0.66997434
+42,212,"Travelodge Seattle by The Space Needle 200 6th Avenue North, Seattle, Washington 98109_0","Executive Inn By The Space Needle 200 Taylor Ave N, Seattle, WA 98109_0",0.336106332
+42,213,"Travelodge Seattle by The Space Needle 200 6th Avenue North, Seattle, Washington 98109_0","citizenM Seattle South Lake Union hotel 201 Westlake Avenue North, Seattle, Washington 98109_0",0.23122775
+42,214,"Travelodge Seattle by The Space Needle 200 6th Avenue North, Seattle, Washington 98109_0","Holiday Inn Express & Suites Seattle City Center 226 Aurora Avenue North, Seattle, Washington 98109_0",0.223329036
+43,215,"Staybridge Suites Seattle - Fremont 3926 Aurora Ave N, Seattle, WA 98103_0","Staybridge Suites Seattle - Fremont 3926 Aurora Ave N, Seattle, WA 98103_0",1
+43,216,"Staybridge Suites Seattle - Fremont 3926 Aurora Ave N, Seattle, WA 98103_0","Crown Inn Motel 9501 Aurora Ave N, Seattle, WA 98103_0",0.218437103
+43,217,"Staybridge Suites Seattle - Fremont 3926 Aurora Ave N, Seattle, WA 98103_0","Hotel Hotel 3515 Fremont Ave N, Seattle, WA 98103_0",0.186967012
+43,218,"Staybridge Suites Seattle - Fremont 3926 Aurora Ave N, Seattle, WA 98103_0","Travelodge by Wyndham Seattle North of Downtown 8512 Aurora Ave N, Seattle, WA 98103_0",0.175771116
+43,219,"Staybridge Suites Seattle - Fremont 3926 Aurora Ave N, Seattle, WA 98103_0","Days Inn by Wyndham Seattle North of Downtown 9100 Aurora Ave N, Seattle, WA 98103_0",0.166754629
+44,220,"Mayflower Park Hotel 405 Olive Way, Seattle, WA 98101_0","Mayflower Park Hotel 405 Olive Way, Seattle, WA 98101_0",1
+44,221,"Mayflower Park Hotel 405 Olive Way, Seattle, WA 98101_0","The Edgewater Hotel Seattle 2411 Alaskan Way, Seattle, WA 98121_0",0.08937157
+44,222,"Mayflower Park Hotel 405 Olive Way, Seattle, WA 98101_0","Seattle Marriott Waterfront 2100 Alaskan Way, Seattle, WA 98121_0",0.086252701
+44,223,"Mayflower Park Hotel 405 Olive Way, Seattle, WA 98101_0","Hyatt At Olive 8 1635 8th Ave, Seattle, WA 98101_0",0.082946363
+44,224,"Mayflower Park Hotel 405 Olive Way, Seattle, WA 98101_0","Hyatt At Olive 9 1635 8th Ave, Seattle, WA 98101_0",0.082946363
+45,225,"The Inn at El Gaucho 2505 1st Ave, Seattle, WA 98121_0","The Inn at El Gaucho 2505 1st Ave, Seattle, WA 98121_0",1
+45,226,"The Inn at El Gaucho 2505 1st Ave, Seattle, WA 98121_0","Ace Hotel Seattle 2423 1st Ave, Seattle, WA 98121_0",0.192123062
+45,227,"The Inn at El Gaucho 2505 1st Ave, Seattle, WA 98121_0","Ace Hotel Seattle 2423 1st Ave, Seattle, WA 98121_0",0.192123062
+45,228,"The Inn at El Gaucho 2505 1st Ave, Seattle, WA 98121_0","Inn at Queen Anne 505 1st Ave N, Seattle, WA 98109_0",0.158629802
+45,229,"The Inn at El Gaucho 2505 1st Ave, Seattle, WA 98121_0","The Inn at Virginia Mason 1006 Spring St, Seattle, WA 98104_0",0.131645516
+46,230,"Palihotel Seattle 107 Pine St, Seattle, WA 98101_0","Palihotel Seattle 107 Pine St, Seattle, WA 98101_0",1
+46,231,"Palihotel Seattle 107 Pine St, Seattle, WA 98101_0","Gand Hyatt Seattle 721 Pine St, Seattle, WA 98101_0",0.285484393
+46,232,"Palihotel Seattle 107 Pine St, Seattle, WA 98101_0","Inn at the Market 86 Pine St, Seattle, WA 98101_0",0.265927506
+46,233,"Palihotel Seattle 107 Pine St, Seattle, WA 98101_0","Hotel Seattle 316 Seneca St, Seattle, WA 98101_0",0.132468473
+46,234,"Palihotel Seattle 107 Pine St, Seattle, WA 98101_0","Thompson Seattle 110 Stewart St, Seattle, WA 98101_0",0.1320951
+47,235,"Courtyard by Marriott Seattle Downtown/Pioneer Square 612 2nd Ave, Seattle, WA 98104_0","Courtyard by Marriott Seattle Downtown/Pioneer Square 612 2nd Ave, Seattle, WA 98104_0",1
+47,236,"Courtyard by Marriott Seattle Downtown/Pioneer Square 612 2nd Ave, Seattle, WA 98104_0","Embassy Suites by Hilton Seattle Downtown Pioneer Square 255 S King St, Seattle, WA 98104_0",0.25658234
+47,237,"Courtyard by Marriott Seattle Downtown/Pioneer Square 612 2nd Ave, Seattle, WA 98104_0","Residence Inn by Marriott Seattle Downtown/Lake Union 800 Fairview Ave N, Seattle, WA 98109_0",0.188693196
+47,238,"Courtyard by Marriott Seattle Downtown/Pioneer Square 612 2nd Ave, Seattle, WA 98104_0","Residence Inn by Marriott Seattle Downtown/Convention Center 1815 Terry Ave, Seattle, WA 98101_0",0.184642601
+47,239,"Courtyard by Marriott Seattle Downtown/Pioneer Square 612 2nd Ave, Seattle, WA 98104_0","Moore Hotel 1926 2nd Ave, Seattle, WA 98101_0",0.127085089
+48,240,"The Arctic Club Seattle - a DoubleTree by Hilton Hotel 700 3rd Ave, Seattle, WA 98104_0","The Arctic Club Seattle - a DoubleTree by Hilton Hotel 700 3rd Ave, Seattle, WA 98104_0",1
+48,241,"The Arctic Club Seattle - a DoubleTree by Hilton Hotel 700 3rd Ave, Seattle, WA 98104_0","DoubleTree by Hilton Hotel Seattle Airport 18740 International Blvd, Seattle, WA 98188_0",0.212114769
+48,242,"The Arctic Club Seattle - a DoubleTree by Hilton Hotel 700 3rd Ave, Seattle, WA 98104_0","Kimpton Alexis Hotel 1007 1st Ave, Seattle, WA 98104_0",0.09455033
+48,243,"The Arctic Club Seattle - a DoubleTree by Hilton Hotel 700 3rd Ave, Seattle, WA 98104_0","Loews Hotel 1000, Seattle 1000 1st Ave, Seattle, WA 98104_0",0.086991249
+48,244,"The Arctic Club Seattle - a DoubleTree by Hilton Hotel 700 3rd Ave, Seattle, WA 98104_0","Courtyard by Marriott Seattle Downtown/Pioneer Square 612 2nd Ave, Seattle, WA 98104_0",0.078618229
+49,245,"Sheraton Bellevue Hotel 100 112th Ave NE, Bellevue, WA 98004_0","Sheraton Bellevue Hotel 100 112th Ave NE, Bellevue, WA 98004_0",1
+49,246,"Sheraton Bellevue Hotel 100 112th Ave NE, Bellevue, WA 98004_0","Econo Lodge Renton-Bellevue 4710 Lake Washington Blvd NE, Renton, WA 98056_0",0.058253602
+49,247,"Sheraton Bellevue Hotel 100 112th Ave NE, Bellevue, WA 98004_0","Graduate Seattle 4507 Brooklyn Ave NE, Seattle, WA 98105_0",0.050279556
+49,248,"Sheraton Bellevue Hotel 100 112th Ave NE, Bellevue, WA 98004_0","University Motel Suites 4731 12th Ave NE, Seattle, WA 98105_0",0.047066084
+49,249,"Sheraton Bellevue Hotel 100 112th Ave NE, Bellevue, WA 98004_0","Travelodge by Wyndham Seattle University 4725 25th Ave NE, Seattle, WA 98105_0",0.042358829
+50,250,"Inn at Queen Anne 505 1st Ave N, Seattle, WA 98109_0","Inn at Queen Anne 505 1st Ave N, Seattle, WA 98109_0",1
+50,251,"Inn at Queen Anne 505 1st Ave N, Seattle, WA 98109_0","Mediterranean Inn 425 Queen Anne Ave N, Seattle, WA 98109_0",0.205991908
+50,252,"Inn at Queen Anne 505 1st Ave N, Seattle, WA 98109_0","MarQueen Hotel 600 Queen Anne Ave N, Seattle, WA 98109_0",0.197250335
+50,253,"Inn at Queen Anne 505 1st Ave N, Seattle, WA 98109_0","The Inn at El Gaucho 2505 1st Ave, Seattle, WA 98121_0",0.158629802
+50,254,"Inn at Queen Anne 505 1st Ave N, Seattle, WA 98109_0","Ace Hotel Seattle 2423 1st Ave, Seattle, WA 98121_0",0.132181791
+51,255,"Holiday Inn Express & Suites Seattle City Center 226 Aurora Avenue North, Seattle, Washington 98109_0","Holiday Inn Express & Suites Seattle City Center 226 Aurora Avenue North, Seattle, Washington 98109_0",1
+51,256,"Holiday Inn Express & Suites Seattle City Center 226 Aurora Avenue North, Seattle, Washington 98109_0","Holiday Inn Express & Suites Seattle-City Center 226 Aurora Ave N, Seattle, WA 98109_0",0.712320966
+51,257,"Holiday Inn Express & Suites Seattle City Center 226 Aurora Avenue North, Seattle, Washington 98109_0","Comfort Inn & Suites 13700 Aurora Avenue North, Seattle, Washington 98133_0",0.282053864
+51,258,"Holiday Inn Express & Suites Seattle City Center 226 Aurora Avenue North, Seattle, Washington 98109_0","Holiday Inn Express & Suites North Seattle - Shoreline 14115 Aurora Ave N, Seattle, WA 98133_0",0.244487101
+51,259,"Holiday Inn Express & Suites Seattle City Center 226 Aurora Avenue North, Seattle, Washington 98109_0","Travelodge Seattle by The Space Needle 200 6th Avenue North, Seattle, Washington 98109_0",0.223329036
+52,260,"Aloft Seattle Redmond 15220 NE Shen Street, Redmond, WA 98052_0","Aloft Seattle Redmond 15220 NE Shen Street, Redmond, WA 98052_0",1
+52,261,"Aloft Seattle Redmond 15220 NE Shen Street, Redmond, WA 98052_0","Hotel Seattle 315 Seneca Street, Seattle, WA 98101_0",0.024303849
+52,262,"Aloft Seattle Redmond 15220 NE Shen Street, Redmond, WA 98052_0","Graduate Seattle 4507 Brooklyn Ave NE, Seattle, WA 98105_0",0.021856774
+52,263,"Aloft Seattle Redmond 15220 NE Shen Street, Redmond, WA 98052_0","Roy Street Commons 621 12th Ave E, Seattle, WA 98102_0",0.021334503
+52,264,"Aloft Seattle Redmond 15220 NE Shen Street, Redmond, WA 98052_0","Warwick Seattle 401 Lenora Street Seattle, Washington 98121_0",0.020550346
+53,265,"Seattle Airport Marriott 3201 S 176th St, Seattle, WA 98188_0","Seattle Airport Marriott 3201 S 176th St, Seattle, WA 98188_0",1
+53,266,"Seattle Airport Marriott 3201 S 176th St, Seattle, WA 98188_0","Clarion Hotel Seattle Airport 3000 S 176th St, Seattle, WA 98188_0",0.327896017
+53,267,"Seattle Airport Marriott 3201 S 176th St, Seattle, WA 98188_0","La Quinta by Wyndham Seattle Sea-Tac Airport 2824 S 188th St, Seattle, WA 98188_0",0.109802766
+53,268,"Seattle Airport Marriott 3201 S 176th St, Seattle, WA 98188_0","Country Inn & Suites by Radisson, Seattle-Tacoma International Airport 3100 S 192nd St, Seattle, WA 98188_0",0.105736939
+53,269,"Seattle Airport Marriott 3201 S 176th St, Seattle, WA 98188_0","Radisson Hotel Seattle Airport 18118 International Blvd, Seattle, WA 98188_0",0.097932355
+54,270,"Hilton Seattle Airport & Conference Center 17620 International Blvd, Seattle, WA 98188_0","Hilton Seattle Airport & Conference Center 17620 International Blvd, Seattle, WA 98188_0",1
+54,271,"Hilton Seattle Airport & Conference Center 17620 International Blvd, Seattle, WA 98188_0","Radisson Hotel Seattle Airport 18118 International Blvd, Seattle, WA 98188_0",0.248270252
+54,272,"Hilton Seattle Airport & Conference Center 17620 International Blvd, Seattle, WA 98188_0","Hampton Inn Seattle-Airport 19445 International Blvd, Seattle, WA 98188_0",0.248159038
+54,273,"Hilton Seattle Airport & Conference Center 17620 International Blvd, Seattle, WA 98188_0","Crowne Plaza Seattle Airport 17338 International Blvd, Seattle, WA 98188_0",0.244028028
+54,274,"Hilton Seattle Airport & Conference Center 17620 International Blvd, Seattle, WA 98188_0","DoubleTree by Hilton Hotel Seattle Airport 18740 International Blvd, Seattle, WA 98188_0",0.236271575
+55,275,"Crowne Plaza Seattle Airport 17338 International Blvd, Seattle, WA 98188_0","Crowne Plaza Seattle Airport 17338 International Blvd, Seattle, WA 98188_0",1
+55,276,"Crowne Plaza Seattle Airport 17338 International Blvd, Seattle, WA 98188_0","Radisson Hotel Seattle Airport 18118 International Blvd, Seattle, WA 98188_0",0.265333306
+55,277,"Crowne Plaza Seattle Airport 17338 International Blvd, Seattle, WA 98188_0","Hampton Inn Seattle-Airport 19445 International Blvd, Seattle, WA 98188_0",0.265214449
+55,278,"Crowne Plaza Seattle Airport 17338 International Blvd, Seattle, WA 98188_0","Hilton Seattle Airport & Conference Center 17620 International Blvd, Seattle, WA 98188_0",0.244028028
+55,279,"Crowne Plaza Seattle Airport 17338 International Blvd, Seattle, WA 98188_0","DoubleTree by Hilton Hotel Seattle Airport 18740 International Blvd, Seattle, WA 98188_0",0.236348518
+56,280,"Radisson Hotel Seattle Airport 18118 International Blvd, Seattle, WA 98188_0","Radisson Hotel Seattle Airport 18118 International Blvd, Seattle, WA 98188_0",1
+56,281,"Radisson Hotel Seattle Airport 18118 International Blvd, Seattle, WA 98188_0","DoubleTree by Hilton Hotel Seattle Airport 18740 International Blvd, Seattle, WA 98188_0",0.293295855
+56,282,"Radisson Hotel Seattle Airport 18118 International Blvd, Seattle, WA 98188_0","Hampton Inn Seattle-Airport 19445 International Blvd, Seattle, WA 98188_0",0.269824981
+56,283,"Radisson Hotel Seattle Airport 18118 International Blvd, Seattle, WA 98188_0","Crowne Plaza Seattle Airport 17338 International Blvd, Seattle, WA 98188_0",0.265333306
+56,284,"Radisson Hotel Seattle Airport 18118 International Blvd, Seattle, WA 98188_0","Red Lion Hotel Seattle Airport Sea-Tac 18220 International Blvd, Seattle, WA 98188_0",0.264795834
+57,285,"DoubleTree by Hilton Hotel Seattle Airport 18740 International Blvd, Seattle, WA 98188_0","DoubleTree by Hilton Hotel Seattle Airport 18740 International Blvd, Seattle, WA 98188_0",1
+57,286,"DoubleTree by Hilton Hotel Seattle Airport 18740 International Blvd, Seattle, WA 98188_0","Radisson Hotel Seattle Airport 18118 International Blvd, Seattle, WA 98188_0",0.293295855
+57,287,"DoubleTree by Hilton Hotel Seattle Airport 18740 International Blvd, Seattle, WA 98188_0","Hampton Inn Seattle-Airport 19445 International Blvd, Seattle, WA 98188_0",0.240349526
+57,288,"DoubleTree by Hilton Hotel Seattle Airport 18740 International Blvd, Seattle, WA 98188_0","Crowne Plaza Seattle Airport 17338 International Blvd, Seattle, WA 98188_0",0.236348518
+57,289,"DoubleTree by Hilton Hotel Seattle Airport 18740 International Blvd, Seattle, WA 98188_0","Hilton Seattle Airport & Conference Center 17620 International Blvd, Seattle, WA 98188_0",0.236271575
+58,290,"Ramada by Wyndham SeaTac Airport 16720 International Blvd, SeaTac, WA 98188_0","Ramada by Wyndham SeaTac Airport 16720 International Blvd, SeaTac, WA 98188_0",1
+58,291,"Ramada by Wyndham SeaTac Airport 16720 International Blvd, SeaTac, WA 98188_0","Econo Lodge SeaTac Airport North 13910 Tukwila International Blvd, Seattle, WA 98168_0",0.117002066
+58,292,"Ramada by Wyndham SeaTac Airport 16720 International Blvd, SeaTac, WA 98188_0","Red Roof Inn Seattle Airport - SEATAC 16838 International Blvd, Seattle, WA 98188_0",0.116238597
+58,293,"Ramada by Wyndham SeaTac Airport 16720 International Blvd, SeaTac, WA 98188_0","Radisson Hotel Seattle Airport 18118 International Blvd, Seattle, WA 98188_0",0.086779904
+58,294,"Ramada by Wyndham SeaTac Airport 16720 International Blvd, SeaTac, WA 98188_0","Hampton Inn Seattle-Airport 19445 International Blvd, Seattle, WA 98188_0",0.086741031
+59,295,"La Quinta by Wyndham Seattle Sea-Tac Airport 2824 S 188th St, Seattle, WA 98188_0","La Quinta by Wyndham Seattle Sea-Tac Airport 2824 S 188th St, Seattle, WA 98188_0",1
+59,296,"La Quinta by Wyndham Seattle Sea-Tac Airport 2824 S 188th St, Seattle, WA 98188_0","Motel 6 Seattle Sea-Tac Airport South 18900 47th Ave S, Seattle, WA 98188_0",0.244128534
+59,297,"La Quinta by Wyndham Seattle Sea-Tac Airport 2824 S 188th St, Seattle, WA 98188_0","Red Lion Hotel Seattle Airport Sea-Tac 18220 International Blvd, Seattle, WA 98188_0",0.111639379
+59,298,"La Quinta by Wyndham Seattle Sea-Tac Airport 2824 S 188th St, Seattle, WA 98188_0","Seattle Airport Marriott 3201 S 176th St, Seattle, WA 98188_0",0.109802766
+59,299,"La Quinta by Wyndham Seattle Sea-Tac Airport 2824 S 188th St, Seattle, WA 98188_0","Clarion Hotel Seattle Airport 3000 S 176th St, Seattle, WA 98188_0",0.103141064
+60,300,"Clarion Hotel Seattle Airport 3000 S 176th St, Seattle, WA 98188_0","Clarion Hotel Seattle Airport 3000 S 176th St, Seattle, WA 98188_0",1
+60,301,"Clarion Hotel Seattle Airport 3000 S 176th St, Seattle, WA 98188_0","Seattle Airport Marriott 3201 S 176th St, Seattle, WA 98188_0",0.327896017
+60,302,"Clarion Hotel Seattle Airport 3000 S 176th St, Seattle, WA 98188_0","Radisson Hotel Seattle Airport 18118 International Blvd, Seattle, WA 98188_0",0.149469577
+60,303,"Clarion Hotel Seattle Airport 3000 S 176th St, Seattle, WA 98188_0","DoubleTree by Hilton Hotel Seattle Airport 18740 International Blvd, Seattle, WA 98188_0",0.133141645
+60,304,"Clarion Hotel Seattle Airport 3000 S 176th St, Seattle, WA 98188_0","Red Lion Hotel Seattle Airport Sea-Tac 18220 International Blvd, Seattle, WA 98188_0",0.120204061
+61,305,"Best Western Seattle Airport Hotel 20717 International Blvd, Seattle, WA 98198_0","Best Western Seattle Airport Hotel 20717 International Blvd, Seattle, WA 98198_0",1
+61,306,"Best Western Seattle Airport Hotel 20717 International Blvd, Seattle, WA 98198_0","Radisson Hotel Seattle Airport 18118 International Blvd, Seattle, WA 98188_0",0.176492004
+61,307,"Best Western Seattle Airport Hotel 20717 International Blvd, Seattle, WA 98198_0","Hampton Inn Seattle-Airport 19445 International Blvd, Seattle, WA 98188_0",0.169396465
+61,308,"Best Western Seattle Airport Hotel 20717 International Blvd, Seattle, WA 98198_0","Crowne Plaza Seattle Airport 17338 International Blvd, Seattle, WA 98188_0",0.166576586
+61,309,"Best Western Seattle Airport Hotel 20717 International Blvd, Seattle, WA 98198_0","DoubleTree by Hilton Hotel Seattle Airport 18740 International Blvd, Seattle, WA 98188_0",0.157212165
+62,310,"Red Lion Hotel Seattle Airport Sea-Tac 18220 International Blvd, Seattle, WA 98188_0","Red Lion Hotel Seattle Airport Sea-Tac 18220 International Blvd, Seattle, WA 98188_0",1
+62,311,"Red Lion Hotel Seattle Airport Sea-Tac 18220 International Blvd, Seattle, WA 98188_0","Radisson Hotel Seattle Airport 18118 International Blvd, Seattle, WA 98188_0",0.264795834
+62,312,"Red Lion Hotel Seattle Airport Sea-Tac 18220 International Blvd, Seattle, WA 98188_0","DoubleTree by Hilton Hotel Seattle Airport 18740 International Blvd, Seattle, WA 98188_0",0.235869758
+62,313,"Red Lion Hotel Seattle Airport Sea-Tac 18220 International Blvd, Seattle, WA 98188_0","Hampton Inn Seattle-Airport 19445 International Blvd, Seattle, WA 98188_0",0.216994383
+62,314,"Red Lion Hotel Seattle Airport Sea-Tac 18220 International Blvd, Seattle, WA 98188_0","Crowne Plaza Seattle Airport 17338 International Blvd, Seattle, WA 98188_0",0.213382159
+63,315,"Cedarbrook Lodge 18525 36th Ave S, Seattle, WA 98188_0","Cedarbrook Lodge 18525 36th Ave S, Seattle, WA 98188_0",1
+63,316,"Cedarbrook Lodge 18525 36th Ave S, Seattle, WA 98188_0","Motel 6 Seattle Sea-Tac Airport South 18900 47th Ave S, Seattle, WA 98188_0",0.100306241
+63,317,"Cedarbrook Lodge 18525 36th Ave S, Seattle, WA 98188_0","Seattle Airport Marriott 3201 S 176th St, Seattle, WA 98188_0",0.06323067
+63,318,"Cedarbrook Lodge 18525 36th Ave S, Seattle, WA 98188_0","Radisson Hotel Seattle Airport 18118 International Blvd, Seattle, WA 98188_0",0.061295573
+63,319,"Cedarbrook Lodge 18525 36th Ave S, Seattle, WA 98188_0","Hampton Inn Seattle-Airport 19445 International Blvd, Seattle, WA 98188_0",0.061268115
+64,320,"Red Roof Inn Seattle Airport - SEATAC 16838 International Blvd, Seattle, WA 98188_0","Red Roof Inn Seattle Airport - SEATAC 16838 International Blvd, Seattle, WA 98188_0",1
+64,321,"Red Roof Inn Seattle Airport - SEATAC 16838 International Blvd, Seattle, WA 98188_0","Hampton Inn Seattle-Airport 19445 International Blvd, Seattle, WA 98188_0",0.291647893
+64,322,"Red Roof Inn Seattle Airport - SEATAC 16838 International Blvd, Seattle, WA 98188_0","Radisson Hotel Seattle Airport 18118 International Blvd, Seattle, WA 98188_0",0.228924647
+64,323,"Red Roof Inn Seattle Airport - SEATAC 16838 International Blvd, Seattle, WA 98188_0","Crowne Plaza Seattle Airport 17338 International Blvd, Seattle, WA 98188_0",0.225012984
+64,324,"Red Roof Inn Seattle Airport - SEATAC 16838 International Blvd, Seattle, WA 98188_0","Red Lion Hotel Seattle Airport Sea-Tac 18220 International Blvd, Seattle, WA 98188_0",0.212374521
+65,325,"Hampton Inn Seattle-Airport 19445 International Blvd, Seattle, WA 98188_0","Hampton Inn Seattle-Airport 19445 International Blvd, Seattle, WA 98188_0",1
+65,326,"Hampton Inn Seattle-Airport 19445 International Blvd, Seattle, WA 98188_0","Red Roof Inn Seattle Airport - SEATAC 16838 International Blvd, Seattle, WA 98188_0",0.291647893
+65,327,"Hampton Inn Seattle-Airport 19445 International Blvd, Seattle, WA 98188_0","Radisson Hotel Seattle Airport 18118 International Blvd, Seattle, WA 98188_0",0.269824981
+65,328,"Hampton Inn Seattle-Airport 19445 International Blvd, Seattle, WA 98188_0","Crowne Plaza Seattle Airport 17338 International Blvd, Seattle, WA 98188_0",0.265214449
+65,329,"Hampton Inn Seattle-Airport 19445 International Blvd, Seattle, WA 98188_0","Hilton Seattle Airport & Conference Center 17620 International Blvd, Seattle, WA 98188_0",0.248159038
+66,330,"Coast Gateway Hotel 18415 International Blvd, Seattle, WA 98188_0","Coast Gateway Hotel 18415 International Blvd, Seattle, WA 98188_0",1
+66,331,"Coast Gateway Hotel 18415 International Blvd, Seattle, WA 98188_0","Radisson Hotel Seattle Airport 18118 International Blvd, Seattle, WA 98188_0",0.24467886
+66,332,"Coast Gateway Hotel 18415 International Blvd, Seattle, WA 98188_0","Hampton Inn Seattle-Airport 19445 International Blvd, Seattle, WA 98188_0",0.236373704
+66,333,"Coast Gateway Hotel 18415 International Blvd, Seattle, WA 98188_0","Crowne Plaza Seattle Airport 17338 International Blvd, Seattle, WA 98188_0",0.23243888
+66,334,"Coast Gateway Hotel 18415 International Blvd, Seattle, WA 98188_0","DoubleTree by Hilton Hotel Seattle Airport 18740 International Blvd, Seattle, WA 98188_0",0.217950346
+67,335,"Embassy Suites by Hilton Seattle Tacoma International Airport 15920 W Valley Hwy, Seattle, WA 98188_0","Embassy Suites by Hilton Seattle Tacoma International Airport 15920 W Valley Hwy, Seattle, WA 98188_0",1
+67,336,"Embassy Suites by Hilton Seattle Tacoma International Airport 15920 W Valley Hwy, Seattle, WA 98188_0","Country Inn & Suites by Radisson, Seattle-Tacoma International Airport 3100 S 192nd St, Seattle, WA 98188_0",0.232133448
+67,337,"Embassy Suites by Hilton Seattle Tacoma International Airport 15920 W Valley Hwy, Seattle, WA 98188_0","Embassy Suites by Hilton Seattle Downtown Pioneer Square 255 S King St, Seattle, WA 98104_0",0.223176176
+67,338,"Embassy Suites by Hilton Seattle Tacoma International Airport 15920 W Valley Hwy, Seattle, WA 98188_0","Homewood Suites by Hilton Seattle-Tacoma Airport/Tukwila 6955 Fort Dent Way, Tukwila, WA 98188_0",0.215132244
+67,339,"Embassy Suites by Hilton Seattle Tacoma International Airport 15920 W Valley Hwy, Seattle, WA 98188_0","Home2 Suites by Hilton Seattle Airport 380 Upland Dr, Tukwila, WA 98188_0",0.157261039
+68,340,"Home2 Suites by Hilton Seattle Airport 380 Upland Dr, Tukwila, WA 98188_0","Home2 Suites by Hilton Seattle Airport 380 Upland Dr, Tukwila, WA 98188_0",1
+68,341,"Home2 Suites by Hilton Seattle Airport 380 Upland Dr, Tukwila, WA 98188_0","Home2 Suites by Hilton Seattle Airport 380 Upland Drive, Tukwila, Washington 98188_0",0.582787221
+68,342,"Home2 Suites by Hilton Seattle Airport 380 Upland Dr, Tukwila, WA 98188_0","Homewood Suites by Hilton Seattle-Tacoma Airport/Tukwila 6955 Fort Dent Way, Tukwila, WA 98188_0",0.213012528
+68,343,"Home2 Suites by Hilton Seattle Airport 380 Upland Dr, Tukwila, WA 98188_0","Embassy Suites by Hilton Seattle Tacoma International Airport 15920 W Valley Hwy, Seattle, WA 98188_0",0.157261039
+68,344,"Home2 Suites by Hilton Seattle Airport 380 Upland Dr, Tukwila, WA 98188_0","Homewood Suites by Hilton Seattle Downtown 206 Western Ave W, Seattle, WA 98119_0",0.147439717
+69,345,"Home2 Suites by Hilton Seattle Airport 380 Upland Drive, Tukwila, Washington 98188_0","Home2 Suites by Hilton Seattle Airport 380 Upland Drive, Tukwila, Washington 98188_0",1
+69,346,"Home2 Suites by Hilton Seattle Airport 380 Upland Drive, Tukwila, Washington 98188_0","Home2 Suites by Hilton Seattle Airport 380 Upland Dr, Tukwila, WA 98188_0",0.582787221
+69,347,"Home2 Suites by Hilton Seattle Airport 380 Upland Drive, Tukwila, Washington 98188_0","Homewood Suites by Hilton Seattle-Tacoma Airport/Tukwila 6955 Fort Dent Way, Tukwila, WA 98188_0",0.156974274
+69,348,"Home2 Suites by Hilton Seattle Airport 380 Upland Drive, Tukwila, Washington 98188_0","Homewood Suites by Hilton Seattle Downtown 206 Western Ave W, Seattle, WA 98119_0",0.142341664
+69,349,"Home2 Suites by Hilton Seattle Airport 380 Upland Drive, Tukwila, Washington 98188_0","Embassy Suites by Hilton Seattle Tacoma International Airport 15920 W Valley Hwy, Seattle, WA 98188_0",0.142137165
+70,350,"Country Inn & Suites by Radisson, Seattle-Tacoma International Airport 3100 S 192nd St, Seattle, WA 98188_0","Country Inn & Suites by Radisson, Seattle-Tacoma International Airport 3100 S 192nd St, Seattle, WA 98188_0",1
+70,351,"Country Inn & Suites by Radisson, Seattle-Tacoma International Airport 3100 S 192nd St, Seattle, WA 98188_0","Embassy Suites by Hilton Seattle Tacoma International Airport 15920 W Valley Hwy, Seattle, WA 98188_0",0.232133448
+70,352,"Country Inn & Suites by Radisson, Seattle-Tacoma International Airport 3100 S 192nd St, Seattle, WA 98188_0","Seattle Airport Marriott 3201 S 176th St, Seattle, WA 98188_0",0.105736939
+70,353,"Country Inn & Suites by Radisson, Seattle-Tacoma International Airport 3100 S 192nd St, Seattle, WA 98188_0","Clarion Hotel Seattle Airport 3000 S 176th St, Seattle, WA 98188_0",0.09932191
+70,354,"Country Inn & Suites by Radisson, Seattle-Tacoma International Airport 3100 S 192nd St, Seattle, WA 98188_0","Radisson Hotel Seattle Airport 18118 International Blvd, Seattle, WA 98188_0",0.097194507
+71,355,"Four Points by Sheraton Seattle Airport South 22406 WA-99, Des Moines, WA 98198_0","Four Points by Sheraton Seattle Airport South 22406 WA-99, Des Moines, WA 98198_0",1
+71,356,"Four Points by Sheraton Seattle Airport South 22406 WA-99, Des Moines, WA 98198_0","Four Points by Sheraton Downtown Seattle Center 601 Roy St, Seattle, WA 98109_0",0.209075609
+71,357,"Four Points by Sheraton Seattle Airport South 22406 WA-99, Des Moines, WA 98198_0","Best Western Seattle Airport Hotel 20717 International Blvd, Seattle, WA 98198_0",0.075716944
+71,358,"Four Points by Sheraton Seattle Airport South 22406 WA-99, Des Moines, WA 98198_0","Four Seasons Hotel Seattle 99 Union St, Seattle, WA 98101_0",0.056132949
+71,359,"Four Points by Sheraton Seattle Airport South 22406 WA-99, Des Moines, WA 98198_0","Motel 6 Seattle Sea-Tac Airport South 18900 47th Ave S, Seattle, WA 98188_0",0.052187515
+72,360,"Homewood Suites by Hilton Seattle-Tacoma Airport/Tukwila 6955 Fort Dent Way, Tukwila, WA 98188_0","Homewood Suites by Hilton Seattle-Tacoma Airport/Tukwila 6955 Fort Dent Way, Tukwila, WA 98188_0",1
+72,361,"Homewood Suites by Hilton Seattle-Tacoma Airport/Tukwila 6955 Fort Dent Way, Tukwila, WA 98188_0","Embassy Suites by Hilton Seattle Tacoma International Airport 15920 W Valley Hwy, Seattle, WA 98188_0",0.215132244
+72,362,"Homewood Suites by Hilton Seattle-Tacoma Airport/Tukwila 6955 Fort Dent Way, Tukwila, WA 98188_0","Homewood Suites by Hilton Seattle Downtown 206 Western Ave W, Seattle, WA 98119_0",0.214487576
+72,363,"Homewood Suites by Hilton Seattle-Tacoma Airport/Tukwila 6955 Fort Dent Way, Tukwila, WA 98188_0","Home2 Suites by Hilton Seattle Airport 380 Upland Dr, Tukwila, WA 98188_0",0.213012528
+72,364,"Homewood Suites by Hilton Seattle-Tacoma Airport/Tukwila 6955 Fort Dent Way, Tukwila, WA 98188_0","Homewood Suites by Hilton Seattle Convention Center Pike Street 1011 Pike St, Seattle, WA 98101_0",0.18132539
+73,365,"Motel 6 Seattle Sea-Tac Airport South 18900 47th Ave S, Seattle, WA 98188_0","Motel 6 Seattle Sea-Tac Airport South 18900 47th Ave S, Seattle, WA 98188_0",1
+73,366,"Motel 6 Seattle Sea-Tac Airport South 18900 47th Ave S, Seattle, WA 98188_0","La Quinta by Wyndham Seattle Sea-Tac Airport 2824 S 188th St, Seattle, WA 98188_0",0.244128534
+73,367,"Motel 6 Seattle Sea-Tac Airport South 18900 47th Ave S, Seattle, WA 98188_0","Red Lion Hotel Seattle Airport Sea-Tac 18220 International Blvd, Seattle, WA 98188_0",0.123931178
+73,368,"Motel 6 Seattle Sea-Tac Airport South 18900 47th Ave S, Seattle, WA 98188_0","Cedarbrook Lodge 18525 36th Ave S, Seattle, WA 98188_0",0.100306241
+73,369,"Motel 6 Seattle Sea-Tac Airport South 18900 47th Ave S, Seattle, WA 98188_0","Seattle Airport Marriott 3201 S 176th St, Seattle, WA 98188_0",0.064245032
+74,370,"Hostelling International Seattle at the American Hotel 520 S King St, Seattle, WA 98104_0","Hostelling International Seattle at the American Hotel 520 S King St, Seattle, WA 98104_0",1
+74,371,"Hostelling International Seattle at the American Hotel 520 S King St, Seattle, WA 98104_0","Embassy Suites by Hilton Seattle Downtown Pioneer Square 255 S King St, Seattle, WA 98104_0",0.18134876
+74,372,"Hostelling International Seattle at the American Hotel 520 S King St, Seattle, WA 98104_0","The Baroness Hotel 1005 Spring St, Seattle, WA 98104_0",0.116606361
+74,373,"Hostelling International Seattle at the American Hotel 520 S King St, Seattle, WA 98104_0","Hotel Sorrento 900 Madison St, Seattle, WA 98104_0",0.114257164
+74,374,"Hostelling International Seattle at the American Hotel 520 S King St, Seattle, WA 98104_0","Renaissance Seattle Hotel 515 Madison St, Seattle, WA 98104_0",0.111272181
+75,375,"Green Tortoise Hostel Seattle 105 Pike St, Seattle, WA 98101_0","Green Tortoise Hostel Seattle 105 Pike St, Seattle, WA 98101_0",1
+75,376,"Green Tortoise Hostel Seattle 105 Pike St, Seattle, WA 98101_0","Homewood Suites by Hilton Seattle Convention Center Pike Street 1011 Pike St, Seattle, WA 98101_0",0.194307286
+75,377,"Green Tortoise Hostel Seattle 105 Pike St, Seattle, WA 98101_0","Hotel Seattle 316 Seneca St, Seattle, WA 98101_0",0.108235991
+75,378,"Green Tortoise Hostel Seattle 105 Pike St, Seattle, WA 98101_0","Thompson Seattle 110 Stewart St, Seattle, WA 98101_0",0.10793092
+75,379,"Green Tortoise Hostel Seattle 105 Pike St, Seattle, WA 98101_0","Palihotel Seattle 107 Pine St, Seattle, WA 98101_0",0.106248177
+76,380,"Days Inn Seattle South Tukwila 13050 48th Ave S, Seattle, WA 98168_0","Days Inn Seattle South Tukwila 13050 48th Ave S, Seattle, WA 98168_0",1
+76,381,"Days Inn Seattle South Tukwila 13050 48th Ave S, Seattle, WA 98168_0","Econo Lodge SeaTac Airport North 13910 Tukwila International Blvd, Seattle, WA 98168_0",0.103461955
+76,382,"Days Inn Seattle South Tukwila 13050 48th Ave S, Seattle, WA 98168_0","Knights Inn Tukwila 14110 Tukwila International Blvd, Tukwila, WA 98168_0",0.102376019
+76,383,"Days Inn Seattle South Tukwila 13050 48th Ave S, Seattle, WA 98168_0","Days Inn by Wyndham Seattle North of Downtown 9100 Aurora Ave N, Seattle, WA 98103_0",0.077874307
+76,384,"Days Inn Seattle South Tukwila 13050 48th Ave S, Seattle, WA 98168_0","Oakwood Seattle South Lake Union 717 Dexter Ave N, Seattle, WA 98109_0",0.063675193
+77,385,"Econo Lodge SeaTac Airport North 13910 Tukwila International Blvd, Seattle, WA 98168_0","Econo Lodge SeaTac Airport North 13910 Tukwila International Blvd, Seattle, WA 98168_0",1
+77,386,"Econo Lodge SeaTac Airport North 13910 Tukwila International Blvd, Seattle, WA 98168_0","Knights Inn Tukwila 14110 Tukwila International Blvd, Tukwila, WA 98168_0",0.18691371
+77,387,"Econo Lodge SeaTac Airport North 13910 Tukwila International Blvd, Seattle, WA 98168_0","Red Roof Inn Seattle Airport - SEATAC 16838 International Blvd, Seattle, WA 98188_0",0.143281495
+77,388,"Econo Lodge SeaTac Airport North 13910 Tukwila International Blvd, Seattle, WA 98168_0","Radisson Hotel Seattle Airport 18118 International Blvd, Seattle, WA 98188_0",0.139211092
+77,389,"Econo Lodge SeaTac Airport North 13910 Tukwila International Blvd, Seattle, WA 98168_0","Hampton Inn Seattle-Airport 19445 International Blvd, Seattle, WA 98188_0",0.139148732
+78,390,"Days Inn by Wyndham Seattle North of Downtown 9100 Aurora Ave N, Seattle, WA 98103_0","Days Inn by Wyndham Seattle North of Downtown 9100 Aurora Ave N, Seattle, WA 98103_0",1
+78,391,"Days Inn by Wyndham Seattle North of Downtown 9100 Aurora Ave N, Seattle, WA 98103_0","Travelodge by Wyndham Seattle North of Downtown 8512 Aurora Ave N, Seattle, WA 98103_0",0.528201634
+78,392,"Days Inn by Wyndham Seattle North of Downtown 9100 Aurora Ave N, Seattle, WA 98103_0","Crown Inn Motel 9501 Aurora Ave N, Seattle, WA 98103_0",0.183759623
+78,393,"Days Inn by Wyndham Seattle North of Downtown 9100 Aurora Ave N, Seattle, WA 98103_0","Staybridge Suites Seattle - Fremont 3926 Aurora Ave N, Seattle, WA 98103_0",0.166754629
+78,394,"Days Inn by Wyndham Seattle North of Downtown 9100 Aurora Ave N, Seattle, WA 98103_0","Hotel Hotel 3515 Fremont Ave N, Seattle, WA 98103_0",0.115211679
+79,395,"Travelodge by Wyndham Seattle North of Downtown 8512 Aurora Ave N, Seattle, WA 98103_0","Travelodge by Wyndham Seattle North of Downtown 8512 Aurora Ave N, Seattle, WA 98103_0",1
+79,396,"Travelodge by Wyndham Seattle North of Downtown 8512 Aurora Ave N, Seattle, WA 98103_0","Days Inn by Wyndham Seattle North of Downtown 9100 Aurora Ave N, Seattle, WA 98103_0",0.528201634
+79,397,"Travelodge by Wyndham Seattle North of Downtown 8512 Aurora Ave N, Seattle, WA 98103_0","Travelodge by Wyndham Seattle University 4725 25th Ave NE, Seattle, WA 98105_0",0.214315572
+79,398,"Travelodge by Wyndham Seattle North of Downtown 8512 Aurora Ave N, Seattle, WA 98103_0","Crown Inn Motel 9501 Aurora Ave N, Seattle, WA 98103_0",0.186181834
+79,399,"Travelodge by Wyndham Seattle North of Downtown 8512 Aurora Ave N, Seattle, WA 98103_0","Staybridge Suites Seattle - Fremont 3926 Aurora Ave N, Seattle, WA 98103_0",0.175771116
+80,400,"Comfort Inn & Suites 13700 Aurora Ave N, Seattle, WA 98133_0","Comfort Inn & Suites 13700 Aurora Ave N, Seattle, WA 98133_0",1
+80,401,"Comfort Inn & Suites 13700 Aurora Ave N, Seattle, WA 98133_0","Comfort Inn & Suites 13700 Aurora Avenue North, Seattle, Washington 98133_0",0.527696356
+80,402,"Comfort Inn & Suites 13700 Aurora Ave N, Seattle, WA 98133_0","Seattle Inn Northgate 12035 Aurora Ave N, Seattle, WA 98133_0",0.267336629
+80,403,"Comfort Inn & Suites 13700 Aurora Ave N, Seattle, WA 98133_0","Seattle Inn Northgate 12035 Aurora Ave N, Seattle, WA 98133_0",0.267336629
+80,404,"Comfort Inn & Suites 13700 Aurora Ave N, Seattle, WA 98133_0","Emerald Motel 12045 Aurora Ave N, Seattle, WA 98133_0",0.259740214
+81,405,"MarQueen Hotel 600 Queen Anne Ave N, Seattle, WA 98109_0","MarQueen Hotel 600 Queen Anne Ave N, Seattle, WA 98109_0",1
+81,406,"MarQueen Hotel 600 Queen Anne Ave N, Seattle, WA 98109_0","Mediterranean Inn 425 Queen Anne Ave N, Seattle, WA 98109_0",0.426054218
+81,407,"MarQueen Hotel 600 Queen Anne Ave N, Seattle, WA 98109_0","Inn at Queen Anne 505 1st Ave N, Seattle, WA 98109_0",0.197250335
+81,408,"MarQueen Hotel 600 Queen Anne Ave N, Seattle, WA 98109_0","Civic Hotel 325 7th Ave, Seattle, WA 98109_0",0.10630226
+81,409,"MarQueen Hotel 600 Queen Anne Ave N, Seattle, WA 98109_0","Hyatt Place Seattle 110 6th Ave N, Seattle, WA 98109_0",0.092950703
+82,410,"Roy Street Commons 621 12th Ave E, Seattle, WA 98102_0","Roy Street Commons 621 12th Ave E, Seattle, WA 98102_0",1
+82,411,"Roy Street Commons 621 12th Ave E, Seattle, WA 98102_0","Roy Street Commons 621 12th Avenue East, Seattle, Washington 98102_0",0.499496669
+82,412,"Roy Street Commons 621 12th Ave E, Seattle, WA 98102_0","11th Avenue Inn Bed and Breakfast 121 11th Ave E, Seattle, WA 98102_0",0.134842157
+82,413,"Roy Street Commons 621 12th Ave E, Seattle, WA 98102_0","The Bacon Mansion Bed and Breakfast 4528, 959 Broadway E, Seattle, WA 98102_0",0.087746888
+82,414,"Roy Street Commons 621 12th Ave E, Seattle, WA 98102_0","University Motel Suites 4731 12th Ave NE, Seattle, WA 98105_0",0.08109662
+83,415,"Hotel Seattle 315 Seneca Street, Seattle, WA 98101_0","Hotel Seattle 315 Seneca Street, Seattle, WA 98101_0",1
+83,416,"Hotel Seattle 315 Seneca Street, Seattle, WA 98101_0","Hotel Seattle 316 Seneca St, Seattle, WA 98101_0",0.141895938
+83,417,"Hotel Seattle 315 Seneca Street, Seattle, WA 98101_0","The Paramount Hotel Seattle 724 Pine Street, Seattle Central Business District, Seattle, WA 98101_0",0.099203019
+83,418,"Hotel Seattle 315 Seneca Street, Seattle, WA 98101_0","Four Seasons Hotel Seattle 99 Union St, Seattle, WA 98101_0",0.074027682
+83,419,"Hotel Seattle 315 Seneca Street, Seattle, WA 98101_0","Renaissance Seattle Hotel 515 Madison Street, Seattle, Washington 98104_0",0.069610659
+84,420,"Hotel Seattle 316 Seneca St, Seattle, WA 98101_0","Hotel Seattle 316 Seneca St, Seattle, WA 98101_0",1
+84,421,"Hotel Seattle 316 Seneca St, Seattle, WA 98101_0","Hotel Seattle 315 Seneca Street, Seattle, WA 98101_0",0.141895938
+84,422,"Hotel Seattle 316 Seneca St, Seattle, WA 98101_0","Hotel Max 620 Stewart St, Seattle, WA 98101_0",0.140806814
+84,423,"Hotel Seattle 316 Seneca St, Seattle, WA 98101_0","Four Seasons Hotel Seattle 99 Union St, Seattle, WA 98101_0",0.139732501
+84,424,"Hotel Seattle 316 Seneca St, Seattle, WA 98101_0","Thompson Seattle 110 Stewart St, Seattle, WA 98101_0",0.134566488
+85,425,"Columbus Motor Inn 9613 Aurora Avenue North, Seattle, WA 98103_0","Columbus Motor Inn 9613 Aurora Avenue North, Seattle, WA 98103_0",1
+85,426,"Columbus Motor Inn 9613 Aurora Avenue North, Seattle, WA 98103_0","Comfort Inn & Suites 13700 Aurora Avenue North, Seattle, Washington 98133_0",0.227249393
+85,427,"Columbus Motor Inn 9613 Aurora Avenue North, Seattle, WA 98103_0","Marco Polo Motel 4114 Aurora North, Seattle, WA 98103_0",0.200703956
+85,428,"Columbus Motor Inn 9613 Aurora Avenue North, Seattle, WA 98103_0","Holiday Inn Express & Suites Seattle City Center 226 Aurora Avenue North, Seattle, Washington 98109_0",0.190161875
+85,429,"Columbus Motor Inn 9613 Aurora Avenue North, Seattle, WA 98103_0","Crown Inn Motel 9501 Aurora Ave N, Seattle, WA 98103_0",0.107168609
+86,430,"Holiday Inn Express & Suites North Seattle - Shoreline 14115 Aurora Ave N, Seattle, WA 98133_0","Holiday Inn Express & Suites North Seattle - Shoreline 14115 Aurora Ave N, Seattle, WA 98133_0",1
+86,431,"Holiday Inn Express & Suites North Seattle - Shoreline 14115 Aurora Ave N, Seattle, WA 98133_0","Holiday Inn Express & Suites Seattle-City Center 226 Aurora Ave N, Seattle, WA 98109_0",0.296717837
+86,432,"Holiday Inn Express & Suites North Seattle - Shoreline 14115 Aurora Ave N, Seattle, WA 98133_0","Holiday Inn Express & Suites Seattle City Center 226 Aurora Avenue North, Seattle, Washington 98109_0",0.244487101
+86,433,"Holiday Inn Express & Suites North Seattle - Shoreline 14115 Aurora Ave N, Seattle, WA 98133_0","Comfort Inn & Suites 13700 Aurora Ave N, Seattle, WA 98133_0",0.209014857
+86,434,"Holiday Inn Express & Suites North Seattle - Shoreline 14115 Aurora Ave N, Seattle, WA 98133_0","Seattle Inn Northgate 12035 Aurora Ave N, Seattle, WA 98133_0",0.200515831
+87,435,"Travelodge by Wyndham Seattle University 4725 25th Ave NE, Seattle, WA 98105_0","Travelodge by Wyndham Seattle University 4725 25th Ave NE, Seattle, WA 98105_0",1
+87,436,"Travelodge by Wyndham Seattle University 4725 25th Ave NE, Seattle, WA 98105_0","University Motel Suites 4731 12th Ave NE, Seattle, WA 98105_0",0.261751036
+87,437,"Travelodge by Wyndham Seattle University 4725 25th Ave NE, Seattle, WA 98105_0","Graduate Seattle 4507 Brooklyn Ave NE, Seattle, WA 98105_0",0.256412079
+87,438,"Travelodge by Wyndham Seattle University 4725 25th Ave NE, Seattle, WA 98105_0","Travelodge by Wyndham Seattle North of Downtown 8512 Aurora Ave N, Seattle, WA 98103_0",0.214315572
+87,439,"Travelodge by Wyndham Seattle University 4725 25th Ave NE, Seattle, WA 98105_0","University Inn - A Staypineapple Hotel 4140 Roosevelt Way NE, Seattle, WA 98105_0",0.167148431
+88,440,"Comfort Inn & Suites 13700 Aurora Avenue North, Seattle, Washington 98133_0","Comfort Inn & Suites 13700 Aurora Avenue North, Seattle, Washington 98133_0",1
+88,441,"Comfort Inn & Suites 13700 Aurora Avenue North, Seattle, Washington 98133_0","Comfort Inn & Suites 13700 Aurora Ave N, Seattle, WA 98133_0",0.527696356
+88,442,"Comfort Inn & Suites 13700 Aurora Avenue North, Seattle, Washington 98133_0","Holiday Inn Express & Suites Seattle City Center 226 Aurora Avenue North, Seattle, Washington 98109_0",0.282053864
+88,443,"Comfort Inn & Suites 13700 Aurora Avenue North, Seattle, Washington 98133_0","Columbus Motor Inn 9613 Aurora Avenue North, Seattle, WA 98103_0",0.227249393
+88,444,"Comfort Inn & Suites 13700 Aurora Avenue North, Seattle, Washington 98133_0","Travelodge Seattle by The Space Needle 200 6th Avenue North, Seattle, Washington 98109_0",0.177754499
+89,445,"Crown Inn Motel 9501 Aurora Ave N, Seattle, WA 98103_0","Crown Inn Motel 9501 Aurora Ave N, Seattle, WA 98103_0",1
+89,446,"Crown Inn Motel 9501 Aurora Ave N, Seattle, WA 98103_0","Staybridge Suites Seattle - Fremont 3926 Aurora Ave N, Seattle, WA 98103_0",0.218437103
+89,447,"Crown Inn Motel 9501 Aurora Ave N, Seattle, WA 98103_0","Nites Inn Motel 11746 Aurora Ave N, Seattle, WA 98133_0",0.195741758
+89,448,"Crown Inn Motel 9501 Aurora Ave N, Seattle, WA 98103_0","Travelodge by Wyndham Seattle North of Downtown 8512 Aurora Ave N, Seattle, WA 98103_0",0.186181834
+89,449,"Crown Inn Motel 9501 Aurora Ave N, Seattle, WA 98103_0","Days Inn by Wyndham Seattle North of Downtown 9100 Aurora Ave N, Seattle, WA 98103_0",0.183759623
+90,450,"Roy Street Commons 621 12th Avenue East, Seattle, Washington 98102_0","Roy Street Commons 621 12th Avenue East, Seattle, Washington 98102_0",1
+90,451,"Roy Street Commons 621 12th Avenue East, Seattle, Washington 98102_0","Roy Street Commons 621 12th Ave E, Seattle, WA 98102_0",0.499496669
+90,452,"Roy Street Commons 621 12th Avenue East, Seattle, Washington 98102_0","Warwick Seattle 401 Lenora Street Seattle, Washington 98121_0",0.053295262
+90,453,"Roy Street Commons 621 12th Avenue East, Seattle, Washington 98102_0","Renaissance Seattle Hotel 515 Madison Street, Seattle, Washington 98104_0",0.051594785
+90,454,"Roy Street Commons 621 12th Avenue East, Seattle, Washington 98102_0","Quality Inn & Suites Seattle Center 618 John Street, Seattle, Washington 98109_0",0.047069837
+91,455,"Seattle Inn Northgate 12035 Aurora Ave N, Seattle, WA 98133_0","Seattle Inn Northgate 12035 Aurora Ave N, Seattle, WA 98133_0",1
+91,456,"Seattle Inn Northgate 12035 Aurora Ave N, Seattle, WA 98133_0","Seattle Inn Northgate 12035 Aurora Ave N, Seattle, WA 98133_0",1
+91,457,"Seattle Inn Northgate 12035 Aurora Ave N, Seattle, WA 98133_0","Comfort Inn & Suites 13700 Aurora Ave N, Seattle, WA 98133_0",0.267336629
+91,458,"Seattle Inn Northgate 12035 Aurora Ave N, Seattle, WA 98133_0","Emerald Motel 12045 Aurora Ave N, Seattle, WA 98133_0",0.265218
+91,459,"Seattle Inn Northgate 12035 Aurora Ave N, Seattle, WA 98133_0","Nites Inn Motel 11746 Aurora Ave N, Seattle, WA 98133_0",0.253103953
+92,460,"Seattle Inn Northgate 12035 Aurora Ave N, Seattle, WA 98133_0","Seattle Inn Northgate 12035 Aurora Ave N, Seattle, WA 98133_0",1
+92,461,"Seattle Inn Northgate 12035 Aurora Ave N, Seattle, WA 98133_0","Seattle Inn Northgate 12035 Aurora Ave N, Seattle, WA 98133_0",1
+92,462,"Seattle Inn Northgate 12035 Aurora Ave N, Seattle, WA 98133_0","Comfort Inn & Suites 13700 Aurora Ave N, Seattle, WA 98133_0",0.267336629
+92,463,"Seattle Inn Northgate 12035 Aurora Ave N, Seattle, WA 98133_0","Emerald Motel 12045 Aurora Ave N, Seattle, WA 98133_0",0.265218
+92,464,"Seattle Inn Northgate 12035 Aurora Ave N, Seattle, WA 98133_0","Nites Inn Motel 11746 Aurora Ave N, Seattle, WA 98133_0",0.253103953
+93,465,"Marco Polo Motel 4114 Aurora North, Seattle, WA 98103_0","Marco Polo Motel 4114 Aurora North, Seattle, WA 98103_0",1
+93,466,"Marco Polo Motel 4114 Aurora North, Seattle, WA 98103_0","Columbus Motor Inn 9613 Aurora Avenue North, Seattle, WA 98103_0",0.200703956
+93,467,"Marco Polo Motel 4114 Aurora North, Seattle, WA 98103_0","Crown Inn Motel 9501 Aurora Ave N, Seattle, WA 98103_0",0.128541338
+93,468,"Marco Polo Motel 4114 Aurora North, Seattle, WA 98103_0","Travelodge by Wyndham Seattle North of Downtown 8512 Aurora Ave N, Seattle, WA 98103_0",0.098675094
+93,469,"Marco Polo Motel 4114 Aurora North, Seattle, WA 98103_0","Staybridge Suites Seattle - Fremont 3926 Aurora Ave N, Seattle, WA 98103_0",0.09670841
+94,470,"Ballard Inn 5300 Ballard Ave NW, Seattle, WA 98107_0","Ballard Inn 5300 Ballard Ave NW, Seattle, WA 98107_0",1
+94,471,"Ballard Inn 5300 Ballard Ave NW, Seattle, WA 98107_0","Seattle Inn Northgate 12035 Aurora Ave N, Seattle, WA 98133_0",0.020075966
+94,472,"Ballard Inn 5300 Ballard Ave NW, Seattle, WA 98107_0","Seattle Inn Northgate 12035 Aurora Ave N, Seattle, WA 98133_0",0.020075966
+94,473,"Ballard Inn 5300 Ballard Ave NW, Seattle, WA 98107_0","Vermont Inn 2721 4th Ave, Seattle, WA 98121_0",0.01955722
+94,474,"Ballard Inn 5300 Ballard Ave NW, Seattle, WA 98107_0","Kings Inn 2106 5th Ave, Seattle, WA 98121_0",0.019272678
+95,475,"The Loyal Inn 2301 8th Ave, Seattle, WA 98121_0","The Loyal Inn 2301 8th Ave, Seattle, WA 98121_0",1
+95,476,"The Loyal Inn 2301 8th Ave, Seattle, WA 98121_0","La Quinta Inn & Suites Seattle Downtown 2224 8th Ave, Seattle, WA 98121_0",0.210473347
+95,477,"The Loyal Inn 2301 8th Ave, Seattle, WA 98121_0","Hyatt At Olive 8 1635 8th Ave, Seattle, WA 98101_0",0.175775139
+95,478,"The Loyal Inn 2301 8th Ave, Seattle, WA 98121_0","Hyatt At Olive 9 1635 8th Ave, Seattle, WA 98101_0",0.175775139
+95,479,"The Loyal Inn 2301 8th Ave, Seattle, WA 98121_0","Vermont Inn 2721 4th Ave, Seattle, WA 98121_0",0.116329655
+96,480,"Kings Inn 2106 5th Ave, Seattle, WA 98121_0","Kings Inn 2106 5th Ave, Seattle, WA 98121_0",1
+96,481,"Kings Inn 2106 5th Ave, Seattle, WA 98121_0","Hotel Five - A Staypineapple Hotel 2200 5th Ave, Seattle, WA 98121_0",0.240865824
+96,482,"Kings Inn 2106 5th Ave, Seattle, WA 98121_0","Hyatt House Seattle 201 5th Ave N, Seattle, WA 98109_0",0.185066029
+96,483,"Kings Inn 2106 5th Ave, Seattle, WA 98121_0","Kimpton Hotel Vintage Seattle 1100 5th Ave, Seattle, WA 98101_0",0.170029137
+96,484,"Kings Inn 2106 5th Ave, Seattle, WA 98121_0","Vermont Inn 2721 4th Ave, Seattle, WA 98121_0",0.128144594
+97,485,"New La Hacienda Motel 5414 1st Ave S, Seattle, WA 98108_0","New La Hacienda Motel 5414 1st Ave S, Seattle, WA 98108_0",1
+97,486,"New La Hacienda Motel 5414 1st Ave S, Seattle, WA 98108_0","Georgetown Inn 6100 Corson Ave S, Seattle, WA 98108_0",0.175757407
+97,487,"New La Hacienda Motel 5414 1st Ave S, Seattle, WA 98108_0","Ace Hotel Seattle 2423 1st Ave, Seattle, WA 98121_0",0.121603942
+97,488,"New La Hacienda Motel 5414 1st Ave S, Seattle, WA 98108_0","Ace Hotel Seattle 2423 1st Ave, Seattle, WA 98121_0",0.121603942
+97,489,"New La Hacienda Motel 5414 1st Ave S, Seattle, WA 98108_0","Kimpton Alexis Hotel 1007 1st Ave, Seattle, WA 98104_0",0.10825756
+98,490,"Nites Inn Motel 11746 Aurora Ave N, Seattle, WA 98133_0","Nites Inn Motel 11746 Aurora Ave N, Seattle, WA 98133_0",1
+98,491,"Nites Inn Motel 11746 Aurora Ave N, Seattle, WA 98133_0","Emerald Motel 12045 Aurora Ave N, Seattle, WA 98133_0",0.278093108
+98,492,"Nites Inn Motel 11746 Aurora Ave N, Seattle, WA 98133_0","Seattle Inn Northgate 12035 Aurora Ave N, Seattle, WA 98133_0",0.253103953
+98,493,"Nites Inn Motel 11746 Aurora Ave N, Seattle, WA 98133_0","Seattle Inn Northgate 12035 Aurora Ave N, Seattle, WA 98133_0",0.253103953
+98,494,"Nites Inn Motel 11746 Aurora Ave N, Seattle, WA 98133_0","Comfort Inn & Suites 13700 Aurora Ave N, Seattle, WA 98133_0",0.247935666
+99,495,"Americas Best Value Inn Shoreline / Seattle North 14817 Aurora Ave N, Shoreline, WA 98133_0","Americas Best Value Inn Shoreline / Seattle North 14817 Aurora Ave N, Shoreline, WA 98133_0",1
+99,496,"Americas Best Value Inn Shoreline / Seattle North 14817 Aurora Ave N, Shoreline, WA 98133_0","Holiday Inn Express & Suites North Seattle - Shoreline 14115 Aurora Ave N, Seattle, WA 98133_0",0.116887882
+99,497,"Americas Best Value Inn Shoreline / Seattle North 14817 Aurora Ave N, Shoreline, WA 98133_0","Seattle Inn Northgate 12035 Aurora Ave N, Seattle, WA 98133_0",0.085866068
+99,498,"Americas Best Value Inn Shoreline / Seattle North 14817 Aurora Ave N, Shoreline, WA 98133_0","Seattle Inn Northgate 12035 Aurora Ave N, Seattle, WA 98133_0",0.085866068
+99,499,"Americas Best Value Inn Shoreline / Seattle North 14817 Aurora Ave N, Shoreline, WA 98133_0","Comfort Inn & Suites 13700 Aurora Ave N, Seattle, WA 98133_0",0.083617609
+100,500,"Knights Inn Tukwila 14110 Tukwila International Blvd, Tukwila, WA 98168_0","Knights Inn Tukwila 14110 Tukwila International Blvd, Tukwila, WA 98168_0",1
+100,501,"Knights Inn Tukwila 14110 Tukwila International Blvd, Tukwila, WA 98168_0","Econo Lodge SeaTac Airport North 13910 Tukwila International Blvd, Seattle, WA 98168_0",0.18691371
+100,502,"Knights Inn Tukwila 14110 Tukwila International Blvd, Tukwila, WA 98168_0","Days Inn Seattle South Tukwila 13050 48th Ave S, Seattle, WA 98168_0",0.102376019
+100,503,"Knights Inn Tukwila 14110 Tukwila International Blvd, Tukwila, WA 98168_0","Homewood Suites by Hilton Seattle-Tacoma Airport/Tukwila 6955 Fort Dent Way, Tukwila, WA 98188_0",0.07783804
+100,504,"Knights Inn Tukwila 14110 Tukwila International Blvd, Tukwila, WA 98168_0","Hampton Inn Seattle/Southcenter 7200 S 156th St, Tukwila, WA 98188_0",0.074149584
+101,505,"Extended Stay America - Seattle - Northgat 13300 Stone Ave N, Seattle, WA 98133_0","Extended Stay America - Seattle - Northgat 13300 Stone Ave N, Seattle, WA 98133_0",1
+101,506,"Extended Stay America - Seattle - Northgat 13300 Stone Ave N, Seattle, WA 98133_0","Emerald Motel 12045 Aurora Ave N, Seattle, WA 98133_0",0.119560251
+101,507,"Extended Stay America - Seattle - Northgat 13300 Stone Ave N, Seattle, WA 98133_0","Seattle Inn Northgate 12035 Aurora Ave N, Seattle, WA 98133_0",0.119348118
+101,508,"Extended Stay America - Seattle - Northgat 13300 Stone Ave N, Seattle, WA 98133_0","Seattle Inn Northgate 12035 Aurora Ave N, Seattle, WA 98133_0",0.119348118
+101,509,"Extended Stay America - Seattle - Northgat 13300 Stone Ave N, Seattle, WA 98133_0","Comfort Inn & Suites 13700 Aurora Ave N, Seattle, WA 98133_0",0.115658516
+102,510,"University Motel Suites 4731 12th Ave NE, Seattle, WA 98105_0","University Motel Suites 4731 12th Ave NE, Seattle, WA 98105_0",1
+102,511,"University Motel Suites 4731 12th Ave NE, Seattle, WA 98105_0","Graduate Seattle 4507 Brooklyn Ave NE, Seattle, WA 98105_0",0.283056129
+102,512,"University Motel Suites 4731 12th Ave NE, Seattle, WA 98105_0","Travelodge by Wyndham Seattle University 4725 25th Ave NE, Seattle, WA 98105_0",0.261751036
+102,513,"University Motel Suites 4731 12th Ave NE, Seattle, WA 98105_0","University Inn - A Staypineapple Hotel 4140 Roosevelt Way NE, Seattle, WA 98105_0",0.184760093
+102,514,"University Motel Suites 4731 12th Ave NE, Seattle, WA 98105_0","Watertown Hotel - A Staypineapple Hotel 4242 Roosevelt Way NE, Seattle, WA 98105_0",0.159804486
+103,515,"Graduate Seattle 4507 Brooklyn Ave NE, Seattle, WA 98105_0","Graduate Seattle 4507 Brooklyn Ave NE, Seattle, WA 98105_0",1
+103,516,"Graduate Seattle 4507 Brooklyn Ave NE, Seattle, WA 98105_0","University Motel Suites 4731 12th Ave NE, Seattle, WA 98105_0",0.283056129
+103,517,"Graduate Seattle 4507 Brooklyn Ave NE, Seattle, WA 98105_0","Travelodge by Wyndham Seattle University 4725 25th Ave NE, Seattle, WA 98105_0",0.256412079
+103,518,"Graduate Seattle 4507 Brooklyn Ave NE, Seattle, WA 98105_0","University Inn - A Staypineapple Hotel 4140 Roosevelt Way NE, Seattle, WA 98105_0",0.172381371
+103,519,"Graduate Seattle 4507 Brooklyn Ave NE, Seattle, WA 98105_0","Watertown Hotel - A Staypineapple Hotel 4242 Roosevelt Way NE, Seattle, WA 98105_0",0.171740414
+104,520,"Econo Lodge Renton-Bellevue 4710 Lake Washington Blvd NE, Renton, WA 98056_0","Econo Lodge Renton-Bellevue 4710 Lake Washington Blvd NE, Renton, WA 98056_0",1
+104,521,"Econo Lodge Renton-Bellevue 4710 Lake Washington Blvd NE, Renton, WA 98056_0","Hyatt Regency Lake Washington At SeattleS Southport 1053 Lake Washington Blvd N, Renton, WA 98056_0",0.24218725
+104,522,"Econo Lodge Renton-Bellevue 4710 Lake Washington Blvd NE, Renton, WA 98056_0","Hyatt Regency Lake Washington At SeattleS Southport 1053 Lake WA Boulevard North, Renton, Washington 98056_0",0.103552221
+104,523,"Econo Lodge Renton-Bellevue 4710 Lake Washington Blvd NE, Renton, WA 98056_0","Econo Lodge SeaTac Airport North 13910 Tukwila International Blvd, Seattle, WA 98168_0",0.084920424
+104,524,"Econo Lodge Renton-Bellevue 4710 Lake Washington Blvd NE, Renton, WA 98056_0","Sheraton Bellevue Hotel 100 112th Ave NE, Bellevue, WA 98004_0",0.058253602
+105,525,"Chittenden House Bed and Breakfast 5649 47th Ave SW, Seattle, WA 98136_0","Chittenden House Bed and Breakfast 5649 47th Ave SW, Seattle, WA 98136_0",1
+105,526,"Chittenden House Bed and Breakfast 5649 47th Ave SW, Seattle, WA 98136_0","Mildred's Bed and Breakfast 1202 15th Ave E, Seattle, WA 98112_0",0.124568111
+105,527,"Chittenden House Bed and Breakfast 5649 47th Ave SW, Seattle, WA 98136_0","Pensione Nichols Bed and Breakfast 1923 1st Ave, Seattle, WA 98101_0",0.122042871
+105,528,"Chittenden House Bed and Breakfast 5649 47th Ave SW, Seattle, WA 98136_0","Bed and Breakfast Inn Seattle 1808 E Denny Way, Seattle, WA 98122_0",0.112842669
+105,529,"Chittenden House Bed and Breakfast 5649 47th Ave SW, Seattle, WA 98136_0","11th Avenue Inn Bed and Breakfast 121 11th Ave E, Seattle, WA 98102_0",0.107109537
+106,530,"Emerald Motel 12045 Aurora Ave N, Seattle, WA 98133_0","Emerald Motel 12045 Aurora Ave N, Seattle, WA 98133_0",1
+106,531,"Emerald Motel 12045 Aurora Ave N, Seattle, WA 98133_0","Nites Inn Motel 11746 Aurora Ave N, Seattle, WA 98133_0",0.278093108
+106,532,"Emerald Motel 12045 Aurora Ave N, Seattle, WA 98133_0","Seattle Inn Northgate 12035 Aurora Ave N, Seattle, WA 98133_0",0.265218
+106,533,"Emerald Motel 12045 Aurora Ave N, Seattle, WA 98133_0","Seattle Inn Northgate 12035 Aurora Ave N, Seattle, WA 98133_0",0.265218
+106,534,"Emerald Motel 12045 Aurora Ave N, Seattle, WA 98133_0","Comfort Inn & Suites 13700 Aurora Ave N, Seattle, WA 98133_0",0.259740214
+107,535,"Stay Alfred on 4th Avenue 2201 4th Ave, Seattle, WA 98121_0","Stay Alfred on 4th Avenue 2201 4th Ave, Seattle, WA 98121_0",1
+107,536,"Stay Alfred on 4th Avenue 2201 4th Ave, Seattle, WA 98121_0","Stay Alfred on Wall Street 2515 4th Ave, Seattle, WA 98121_0",0.333448599
+107,537,"Stay Alfred on 4th Avenue 2201 4th Ave, Seattle, WA 98121_0","Stay Alfred on Elliott Avenue 2334 Elliott Ave, Seattle, WA 98121_0",0.234413245
+107,538,"Stay Alfred on 4th Avenue 2201 4th Ave, Seattle, WA 98121_0","Hotel Andra 2000 4th Ave, Seattle, WA 98121_0",0.226253186
+107,539,"Stay Alfred on 4th Avenue 2201 4th Ave, Seattle, WA 98121_0","Vermont Inn 2721 4th Ave, Seattle, WA 98121_0",0.225089581
+108,540,"Silver Cloud Hotel - Seattle Stadium 1046 1st Ave S, Seattle, WA 98134_0","Silver Cloud Hotel - Seattle Stadium 1046 1st Ave S, Seattle, WA 98134_0",1
+108,541,"Silver Cloud Hotel - Seattle Stadium 1046 1st Ave S, Seattle, WA 98134_0","Silver Cloud Hotel - Seattle Broadway 1100 Broadway, Seattle, WA 98122_0",0.24182458
+108,542,"Silver Cloud Hotel - Seattle Stadium 1046 1st Ave S, Seattle, WA 98134_0","Ace Hotel Seattle 2423 1st Ave, Seattle, WA 98121_0",0.146335652
+108,543,"Silver Cloud Hotel - Seattle Stadium 1046 1st Ave S, Seattle, WA 98134_0","Ace Hotel Seattle 2423 1st Ave, Seattle, WA 98121_0",0.146335652
+108,544,"Silver Cloud Hotel - Seattle Stadium 1046 1st Ave S, Seattle, WA 98134_0","Kimpton Alexis Hotel 1007 1st Ave, Seattle, WA 98104_0",0.113502733
+109,545,"Renaissance Seattle Hotel 515 Madison St, Seattle, WA 98104_0","Renaissance Seattle Hotel 515 Madison St, Seattle, WA 98104_0",1
+109,546,"Renaissance Seattle Hotel 515 Madison St, Seattle, WA 98104_0","Renaissance Seattle Hotel 515 Madison Street, Seattle, Washington 98104_0",0.531174134
+109,547,"Renaissance Seattle Hotel 515 Madison St, Seattle, WA 98104_0","Hotel Sorrento 900 Madison St, Seattle, WA 98104_0",0.342184261
+109,548,"Renaissance Seattle Hotel 515 Madison St, Seattle, WA 98104_0","The Baroness Hotel 1005 Spring St, Seattle, WA 98104_0",0.142896944
+109,549,"Renaissance Seattle Hotel 515 Madison St, Seattle, WA 98104_0","Executive Hotel Pacific 400 Spring St, Seattle, WA 98104_0",0.141929998
+110,550,"Quality Inn & Suites Seattle Center 618 John Street, Seattle, Washington 98109_0","Quality Inn & Suites Seattle Center 618 John Street, Seattle, Washington 98109_0",1
+110,551,"Quality Inn & Suites Seattle Center 618 John Street, Seattle, Washington 98109_0","Quality Inn & Suites Seattle Center 618 John St, Seattle, WA 98109_0",0.62739955
+110,552,"Quality Inn & Suites Seattle Center 618 John Street, Seattle, Washington 98109_0","Holiday Inn Express & Suites Seattle City Center 226 Aurora Avenue North, Seattle, Washington 98109_0",0.133273549
+110,553,"Quality Inn & Suites Seattle Center 618 John Street, Seattle, Washington 98109_0","Warwick Seattle 401 Lenora Street Seattle, Washington 98121_0",0.114861555
+110,554,"Quality Inn & Suites Seattle Center 618 John Street, Seattle, Washington 98109_0","Renaissance Seattle Hotel 515 Madison Street, Seattle, Washington 98104_0",0.111196701
+111,555,"The Baroness Hotel 1005 Spring St, Seattle, WA 98104_0","The Baroness Hotel 1005 Spring St, Seattle, WA 98104_0",1
+111,556,"The Baroness Hotel 1005 Spring St, Seattle, WA 98104_0","Executive Hotel Pacific 400 Spring St, Seattle, WA 98104_0",0.285880552
+111,557,"The Baroness Hotel 1005 Spring St, Seattle, WA 98104_0","The Inn at Virginia Mason 1006 Spring St, Seattle, WA 98104_0",0.254128362
+111,558,"The Baroness Hotel 1005 Spring St, Seattle, WA 98104_0","Hotel Sorrento 900 Madison St, Seattle, WA 98104_0",0.147638191
+111,559,"The Baroness Hotel 1005 Spring St, Seattle, WA 98104_0","Renaissance Seattle Hotel 515 Madison St, Seattle, WA 98104_0",0.142896944
+112,560,"Renaissance Seattle Hotel 515 Madison Street, Seattle, Washington 98104_0","Renaissance Seattle Hotel 515 Madison Street, Seattle, Washington 98104_0",1
+112,561,"Renaissance Seattle Hotel 515 Madison Street, Seattle, Washington 98104_0","Renaissance Seattle Hotel 515 Madison St, Seattle, WA 98104_0",0.531174134
+112,562,"Renaissance Seattle Hotel 515 Madison Street, Seattle, Washington 98104_0","Warwick Seattle 401 Lenora Street Seattle, Washington 98121_0",0.125903501
+112,563,"Renaissance Seattle Hotel 515 Madison Street, Seattle, Washington 98104_0","Quality Inn & Suites Seattle Center 618 John Street, Seattle, Washington 98109_0",0.111196701
+112,564,"Renaissance Seattle Hotel 515 Madison Street, Seattle, Washington 98104_0","Hotel Sorrento 900 Madison St, Seattle, WA 98104_0",0.070726108
+113,565,"Kimpton Palladian Hotel 2000 2nd Ave, Seattle, WA 98121_0","Kimpton Palladian Hotel 2000 2nd Ave, Seattle, WA 98121_0",1
+113,566,"Kimpton Palladian Hotel 2000 2nd Ave, Seattle, WA 98121_0","City Hostel Seattle 2327 2nd Ave, Seattle, WA 98121_0",0.22014705
+113,567,"Kimpton Palladian Hotel 2000 2nd Ave, Seattle, WA 98121_0","Moore Hotel 1926 2nd Ave, Seattle, WA 98101_0",0.171218841
+113,568,"Kimpton Palladian Hotel 2000 2nd Ave, Seattle, WA 98121_0","Hotel Andra 2000 4th Ave, Seattle, WA 98121_0",0.167731603
+113,569,"Kimpton Palladian Hotel 2000 2nd Ave, Seattle, WA 98121_0","The State Hotel 1501 2nd Ave, Seattle, WA 98101_0",0.155043679
+114,570,"Panama Hotel and Tea House 605 S Main St, Seattle, WA 98104_0","Panama Hotel and Tea House 605 S Main St, Seattle, WA 98104_0",1
+114,571,"Panama Hotel and Tea House 605 S Main St, Seattle, WA 98104_0","Hotel Sorrento 900 Madison St, Seattle, WA 98104_0",0.122999236
+114,572,"Panama Hotel and Tea House 605 S Main St, Seattle, WA 98104_0","Renaissance Seattle Hotel 515 Madison St, Seattle, WA 98104_0",0.119049243
+114,573,"Panama Hotel and Tea House 605 S Main St, Seattle, WA 98104_0","The Baroness Hotel 1005 Spring St, Seattle, WA 98104_0",0.113404469
+114,574,"Panama Hotel and Tea House 605 S Main St, Seattle, WA 98104_0","Executive Hotel Pacific 400 Spring St, Seattle, WA 98104_0",0.112637091
+115,575,"Four Points by Sheraton Downtown Seattle Center 601 Roy St, Seattle, WA 98109_0","Four Points by Sheraton Downtown Seattle Center 601 Roy St, Seattle, WA 98109_0",1
+115,576,"Four Points by Sheraton Downtown Seattle Center 601 Roy St, Seattle, WA 98109_0","Four Points by Sheraton Seattle Airport South 22406 WA-99, Des Moines, WA 98198_0",0.209075609
+115,577,"Four Points by Sheraton Downtown Seattle Center 601 Roy St, Seattle, WA 98109_0","The Maxwell Hotel - A Staypineapple Hotel 300 Roy St, Seattle, WA 98109_0",0.191725373
+115,578,"Four Points by Sheraton Downtown Seattle Center 601 Roy St, Seattle, WA 98109_0","Quality Inn & Suites Seattle Center 618 John St, Seattle, WA 98109_0",0.131717133
+115,579,"Four Points by Sheraton Downtown Seattle Center 601 Roy St, Seattle, WA 98109_0","Moxy Seattle Downtown 1016 Republican St, Seattle, WA 98109_0",0.10878899
+116,580,"Loews Hotel 1000, Seattle 1000 1st Ave, Seattle, WA 98104_0","Loews Hotel 1000, Seattle 1000 1st Ave, Seattle, WA 98104_0",1
+116,581,"Loews Hotel 1000, Seattle 1000 1st Ave, Seattle, WA 98104_0","Kimpton Alexis Hotel 1007 1st Ave, Seattle, WA 98104_0",0.211606233
+116,582,"Loews Hotel 1000, Seattle 1000 1st Ave, Seattle, WA 98104_0","Ace Hotel Seattle 2423 1st Ave, Seattle, WA 98121_0",0.136999973
+116,583,"Loews Hotel 1000, Seattle 1000 1st Ave, Seattle, WA 98104_0","Ace Hotel Seattle 2423 1st Ave, Seattle, WA 98121_0",0.136999973
+116,584,"Loews Hotel 1000, Seattle 1000 1st Ave, Seattle, WA 98104_0","Inn at Queen Anne 505 1st Ave N, Seattle, WA 98109_0",0.107594522
+117,585,"Quality Inn & Suites Seattle Center 618 John St, Seattle, WA 98109_0","Quality Inn & Suites Seattle Center 618 John St, Seattle, WA 98109_0",1
+117,586,"Quality Inn & Suites Seattle Center 618 John St, Seattle, WA 98109_0","Quality Inn & Suites Seattle Center 618 John Street, Seattle, Washington 98109_0",0.62739955
+117,587,"Quality Inn & Suites Seattle Center 618 John St, Seattle, WA 98109_0","Four Points by Sheraton Downtown Seattle Center 601 Roy St, Seattle, WA 98109_0",0.131717133
+117,588,"Quality Inn & Suites Seattle Center 618 John St, Seattle, WA 98109_0","Staybridge Suites Seattle Downtown - Lake Union 1119 Mercer St, Seattle, WA 98109_0",0.125711433
+117,589,"Quality Inn & Suites Seattle Center 618 John St, Seattle, WA 98109_0","Moxy Seattle Downtown 1016 Republican St, Seattle, WA 98109_0",0.111385923
+118,590,"EVEN Hotel Seattle - South Lake Union 527 Fairview Ave N, Seattle, WA 98109_0","EVEN Hotel Seattle - South Lake Union 527 Fairview Ave N, Seattle, WA 98109_0",1
+118,591,"EVEN Hotel Seattle - South Lake Union 527 Fairview Ave N, Seattle, WA 98109_0","Oakwood Seattle South Lake Union 717 Dexter Ave N, Seattle, WA 98109_0",0.28323161
+118,592,"EVEN Hotel Seattle - South Lake Union 527 Fairview Ave N, Seattle, WA 98109_0","citizenM Seattle South Lake Union hotel 201 Westlake Ave N, Seattle, WA 98109_0",0.281324969
+118,593,"EVEN Hotel Seattle - South Lake Union 527 Fairview Ave N, Seattle, WA 98109_0","Silver Cloud Inn - Seattle Lake Union 1150 Fairview Ave N, Seattle, WA 98109_0",0.231489158
+118,594,"EVEN Hotel Seattle - South Lake Union 527 Fairview Ave N, Seattle, WA 98109_0","Residence Inn by Marriott Seattle Downtown/Lake Union 800 Fairview Ave N, Seattle, WA 98109_0",0.216868849
+119,595,"Hotel Theodore 1531 7th Ave, Seattle, WA 98101_0","Hotel Theodore 1531 7th Ave, Seattle, WA 98101_0",1
+119,596,"Hotel Theodore 1531 7th Ave, Seattle, WA 98101_0","Civic Hotel 325 7th Ave, Seattle, WA 98109_0",0.246955697
+119,597,"Hotel Theodore 1531 7th Ave, Seattle, WA 98101_0","W Seattle 1112 4th Ave, Seattle, WA 98101_0",0.118679866
+119,598,"Hotel Theodore 1531 7th Ave, Seattle, WA 98101_0","Moore Hotel 1926 2nd Ave, Seattle, WA 98101_0",0.110087408
+119,599,"Hotel Theodore 1531 7th Ave, Seattle, WA 98101_0","The State Hotel 1501 2nd Ave, Seattle, WA 98101_0",0.099687375
+120,600,"Hotel Hotel 3515 Fremont Ave N, Seattle, WA 98103_0","Hotel Hotel 3515 Fremont Ave N, Seattle, WA 98103_0",1
+120,601,"Hotel Hotel 3515 Fremont Ave N, Seattle, WA 98103_0","Staybridge Suites Seattle - Fremont 3926 Aurora Ave N, Seattle, WA 98103_0",0.186967012
+120,602,"Hotel Hotel 3515 Fremont Ave N, Seattle, WA 98103_0","Crown Inn Motel 9501 Aurora Ave N, Seattle, WA 98103_0",0.150969922
+120,603,"Hotel Hotel 3515 Fremont Ave N, Seattle, WA 98103_0","Travelodge by Wyndham Seattle North of Downtown 8512 Aurora Ave N, Seattle, WA 98103_0",0.121441219
+120,604,"Hotel Hotel 3515 Fremont Ave N, Seattle, WA 98103_0","Days Inn by Wyndham Seattle North of Downtown 9100 Aurora Ave N, Seattle, WA 98103_0",0.115211679
+121,605,"Silver Cloud Hotel - Seattle Broadway 1100 Broadway, Seattle, WA 98122_0","Silver Cloud Hotel - Seattle Broadway 1100 Broadway, Seattle, WA 98122_0",1
+121,606,"Silver Cloud Hotel - Seattle Broadway 1100 Broadway, Seattle, WA 98122_0","Silver Cloud Hotel - Seattle Stadium 1046 1st Ave S, Seattle, WA 98134_0",0.24182458
+121,607,"Silver Cloud Hotel - Seattle Broadway 1100 Broadway, Seattle, WA 98122_0","The Bacon Mansion Bed and Breakfast 4528, 959 Broadway E, Seattle, WA 98102_0",0.109771722
+121,608,"Silver Cloud Hotel - Seattle Broadway 1100 Broadway, Seattle, WA 98122_0","Gaslight Inn 1727 15th Ave, Seattle, WA 98122_0",0.102935298
+121,609,"Silver Cloud Hotel - Seattle Broadway 1100 Broadway, Seattle, WA 98122_0","Silver Cloud Inn - Seattle Lake Union 1150 Fairview Ave N, Seattle, WA 98109_0",0.090242266
+122,610,"Residence Inn by Marriott Seattle Downtown/Lake Union 800 Fairview Ave N, Seattle, WA 98109_0","Residence Inn by Marriott Seattle Downtown/Lake Union 800 Fairview Ave N, Seattle, WA 98109_0",1
+122,611,"Residence Inn by Marriott Seattle Downtown/Lake Union 800 Fairview Ave N, Seattle, WA 98109_0","Residence Inn by Marriott Seattle Downtown/Convention Center 1815 Terry Ave, Seattle, WA 98101_0",0.362563946
+122,612,"Residence Inn by Marriott Seattle Downtown/Lake Union 800 Fairview Ave N, Seattle, WA 98109_0","Staybridge Suites Seattle Downtown - Lake Union 1119 Mercer St, Seattle, WA 98109_0",0.226815609
+122,613,"Residence Inn by Marriott Seattle Downtown/Lake Union 800 Fairview Ave N, Seattle, WA 98109_0","Silver Cloud Inn - Seattle Lake Union 1150 Fairview Ave N, Seattle, WA 98109_0",0.217102368
+122,614,"Residence Inn by Marriott Seattle Downtown/Lake Union 800 Fairview Ave N, Seattle, WA 98109_0","EVEN Hotel Seattle - South Lake Union 527 Fairview Ave N, Seattle, WA 98109_0",0.216868849
+123,615,"Mediterranean Inn 425 Queen Anne Ave N, Seattle, WA 98109_0","Mediterranean Inn 425 Queen Anne Ave N, Seattle, WA 98109_0",1
+123,616,"Mediterranean Inn 425 Queen Anne Ave N, Seattle, WA 98109_0","MarQueen Hotel 600 Queen Anne Ave N, Seattle, WA 98109_0",0.426054218
+123,617,"Mediterranean Inn 425 Queen Anne Ave N, Seattle, WA 98109_0","Inn at Queen Anne 505 1st Ave N, Seattle, WA 98109_0",0.205991908
+123,618,"Mediterranean Inn 425 Queen Anne Ave N, Seattle, WA 98109_0","Civic Hotel 325 7th Ave, Seattle, WA 98109_0",0.096932373
+123,619,"Mediterranean Inn 425 Queen Anne Ave N, Seattle, WA 98109_0","Holiday Inn Seattle Downtown 211 Dexter Ave N, Seattle, WA 98109_0",0.095997538
+124,620,"Executive Inn By The Space Needle 200 Taylor Ave N, Seattle, WA 98109_0","Executive Inn By The Space Needle 200 Taylor Ave N, Seattle, WA 98109_0",1
+124,621,"Executive Inn By The Space Needle 200 Taylor Ave N, Seattle, WA 98109_0","Travelodge Seattle by The Space Needle 200 6th Ave N, Seattle, WA 98109_0",0.42831932
+124,622,"Executive Inn By The Space Needle 200 Taylor Ave N, Seattle, WA 98109_0","Travelodge Seattle by The Space Needle 200 6th Avenue North, Seattle, Washington 98109_0",0.336106332
+124,623,"Executive Inn By The Space Needle 200 Taylor Ave N, Seattle, WA 98109_0","Residence Inn by Marriott Seattle Downtown/Lake Union 800 Fairview Ave N, Seattle, WA 98109_0",0.095792411
+124,624,"Executive Inn By The Space Needle 200 Taylor Ave N, Seattle, WA 98109_0","Mediterranean Inn 425 Queen Anne Ave N, Seattle, WA 98109_0",0.081458537
+125,625,"The Maxwell Hotel - A Staypineapple Hotel 300 Roy St, Seattle, WA 98109_0","The Maxwell Hotel - A Staypineapple Hotel 300 Roy St, Seattle, WA 98109_0",1
+125,626,"The Maxwell Hotel - A Staypineapple Hotel 300 Roy St, Seattle, WA 98109_0","Four Points by Sheraton Downtown Seattle Center 601 Roy St, Seattle, WA 98109_0",0.191725373
+125,627,"The Maxwell Hotel - A Staypineapple Hotel 300 Roy St, Seattle, WA 98109_0","Watertown Hotel - A Staypineapple Hotel 4242 Roosevelt Way NE, Seattle, WA 98105_0",0.135709692
+125,628,"The Maxwell Hotel - A Staypineapple Hotel 300 Roy St, Seattle, WA 98109_0","Moxy Seattle Downtown 1016 Republican St, Seattle, WA 98109_0",0.104265449
+125,629,"The Maxwell Hotel - A Staypineapple Hotel 300 Roy St, Seattle, WA 98109_0","Quality Inn & Suites Seattle Center 618 John St, Seattle, WA 98109_0",0.095588329
+126,630,"Hyatt At Olive 8 1635 8th Ave, Seattle, WA 98101_0","Hyatt At Olive 8 1635 8th Ave, Seattle, WA 98101_0",1
+126,631,"Hyatt At Olive 8 1635 8th Ave, Seattle, WA 98101_0","Hyatt At Olive 9 1635 8th Ave, Seattle, WA 98101_0",1
+126,632,"Hyatt At Olive 8 1635 8th Ave, Seattle, WA 98101_0","The Loyal Inn 2301 8th Ave, Seattle, WA 98121_0",0.175775139
+126,633,"Hyatt At Olive 8 1635 8th Ave, Seattle, WA 98101_0","La Quinta Inn & Suites Seattle Downtown 2224 8th Ave, Seattle, WA 98121_0",0.148789531
+126,634,"Hyatt At Olive 8 1635 8th Ave, Seattle, WA 98101_0","W Seattle 1112 4th Ave, Seattle, WA 98101_0",0.11495694
+127,635,"Hyatt At Olive 9 1635 8th Ave, Seattle, WA 98101_0","Hyatt At Olive 8 1635 8th Ave, Seattle, WA 98101_0",1
+127,636,"Hyatt At Olive 9 1635 8th Ave, Seattle, WA 98101_0","Hyatt At Olive 9 1635 8th Ave, Seattle, WA 98101_0",1
+127,637,"Hyatt At Olive 9 1635 8th Ave, Seattle, WA 98101_0","The Loyal Inn 2301 8th Ave, Seattle, WA 98121_0",0.175775139
+127,638,"Hyatt At Olive 9 1635 8th Ave, Seattle, WA 98101_0","La Quinta Inn & Suites Seattle Downtown 2224 8th Ave, Seattle, WA 98121_0",0.148789531
+127,639,"Hyatt At Olive 9 1635 8th Ave, Seattle, WA 98101_0","W Seattle 1112 4th Ave, Seattle, WA 98101_0",0.11495694
+128,640,"Silver Cloud Inn - Seattle Lake Union 1150 Fairview Ave N, Seattle, WA 98109_0","Silver Cloud Inn - Seattle Lake Union 1150 Fairview Ave N, Seattle, WA 98109_0",1
+128,641,"Silver Cloud Inn - Seattle Lake Union 1150 Fairview Ave N, Seattle, WA 98109_0","EVEN Hotel Seattle - South Lake Union 527 Fairview Ave N, Seattle, WA 98109_0",0.231489158
+128,642,"Silver Cloud Inn - Seattle Lake Union 1150 Fairview Ave N, Seattle, WA 98109_0","Residence Inn by Marriott Seattle Downtown/Lake Union 800 Fairview Ave N, Seattle, WA 98109_0",0.217102368
+128,643,"Silver Cloud Inn - Seattle Lake Union 1150 Fairview Ave N, Seattle, WA 98109_0","Oakwood Seattle South Lake Union 717 Dexter Ave N, Seattle, WA 98109_0",0.126348975
+128,644,"Silver Cloud Inn - Seattle Lake Union 1150 Fairview Ave N, Seattle, WA 98109_0","citizenM Seattle South Lake Union hotel 201 Westlake Ave N, Seattle, WA 98109_0",0.122702122
+129,645,"The Bacon Mansion Bed and Breakfast 4528, 959 Broadway E, Seattle, WA 98102_0","The Bacon Mansion Bed and Breakfast 4528, 959 Broadway E, Seattle, WA 98102_0",1
+129,646,"The Bacon Mansion Bed and Breakfast 4528, 959 Broadway E, Seattle, WA 98102_0","11th Avenue Inn Bed and Breakfast 121 11th Ave E, Seattle, WA 98102_0",0.17181926
+129,647,"The Bacon Mansion Bed and Breakfast 4528, 959 Broadway E, Seattle, WA 98102_0","Mildred's Bed and Breakfast 1202 15th Ave E, Seattle, WA 98112_0",0.122480109
+129,648,"The Bacon Mansion Bed and Breakfast 4528, 959 Broadway E, Seattle, WA 98102_0","Pensione Nichols Bed and Breakfast 1923 1st Ave, Seattle, WA 98101_0",0.119997197
+129,649,"The Bacon Mansion Bed and Breakfast 4528, 959 Broadway E, Seattle, WA 98102_0","Bed and Breakfast Inn Seattle 1808 E Denny Way, Seattle, WA 98122_0",0.11375783
+130,650,"Homewood Suites by Hilton Seattle Downtown 206 Western Ave W, Seattle, WA 98119_0","Homewood Suites by Hilton Seattle Downtown 206 Western Ave W, Seattle, WA 98119_0",1
+130,651,"Homewood Suites by Hilton Seattle Downtown 206 Western Ave W, Seattle, WA 98119_0","Homewood Suites by Hilton Seattle Convention Center Pike Street 1011 Pike St, Seattle, WA 98101_0",0.229872319
+130,652,"Homewood Suites by Hilton Seattle Downtown 206 Western Ave W, Seattle, WA 98119_0","Embassy Suites by Hilton Seattle Downtown Pioneer Square 255 S King St, Seattle, WA 98104_0",0.226694291
+130,653,"Homewood Suites by Hilton Seattle Downtown 206 Western Ave W, Seattle, WA 98119_0","Homewood Suites by Hilton Seattle-Tacoma Airport/Tukwila 6955 Fort Dent Way, Tukwila, WA 98188_0",0.214487576
+130,654,"Homewood Suites by Hilton Seattle Downtown 206 Western Ave W, Seattle, WA 98119_0","Home2 Suites by Hilton Seattle Airport 380 Upland Dr, Tukwila, WA 98188_0",0.147439717
+131,655,"Georgetown Inn 6100 Corson Ave S, Seattle, WA 98108_0","Georgetown Inn 6100 Corson Ave S, Seattle, WA 98108_0",1
+131,656,"Georgetown Inn 6100 Corson Ave S, Seattle, WA 98108_0","New La Hacienda Motel 5414 1st Ave S, Seattle, WA 98108_0",0.175757407
+131,657,"Georgetown Inn 6100 Corson Ave S, Seattle, WA 98108_0","Seattle Inn Northgate 12035 Aurora Ave N, Seattle, WA 98133_0",0.035134061
+131,658,"Georgetown Inn 6100 Corson Ave S, Seattle, WA 98108_0","Seattle Inn Northgate 12035 Aurora Ave N, Seattle, WA 98133_0",0.035134061
+131,659,"Georgetown Inn 6100 Corson Ave S, Seattle, WA 98108_0","Vermont Inn 2721 4th Ave, Seattle, WA 98121_0",0.03495005
+132,660,"The Inn at Virginia Mason 1006 Spring St, Seattle, WA 98104_0","The Inn at Virginia Mason 1006 Spring St, Seattle, WA 98104_0",1
+132,661,"The Inn at Virginia Mason 1006 Spring St, Seattle, WA 98104_0","The Baroness Hotel 1005 Spring St, Seattle, WA 98104_0",0.254128362
+132,662,"The Inn at Virginia Mason 1006 Spring St, Seattle, WA 98104_0","Executive Hotel Pacific 400 Spring St, Seattle, WA 98104_0",0.239809572
+132,663,"The Inn at Virginia Mason 1006 Spring St, Seattle, WA 98104_0","The Inn at El Gaucho 2505 1st Ave, Seattle, WA 98121_0",0.131645516
+132,664,"The Inn at Virginia Mason 1006 Spring St, Seattle, WA 98104_0","Hotel Sorrento 900 Madison St, Seattle, WA 98104_0",0.119751854
+133,665,"The Grove West Seattle Inn 3512 SW Alaska St, Seattle, WA 98126_0","The Grove West Seattle Inn 3512 SW Alaska St, Seattle, WA 98126_0",1
+133,666,"The Grove West Seattle Inn 3512 SW Alaska St, Seattle, WA 98126_0","Inn at the Market 86 Pine St, Seattle, WA 98101_0",0.048101957
+133,667,"The Grove West Seattle Inn 3512 SW Alaska St, Seattle, WA 98126_0","Seattle Inn Northgate 12035 Aurora Ave N, Seattle, WA 98133_0",0.047960045
+133,668,"The Grove West Seattle Inn 3512 SW Alaska St, Seattle, WA 98126_0","Seattle Inn Northgate 12035 Aurora Ave N, Seattle, WA 98133_0",0.047960045
+133,669,"The Grove West Seattle Inn 3512 SW Alaska St, Seattle, WA 98126_0","The Baroness Hotel 1005 Spring St, Seattle, WA 98104_0",0.043722434
+134,670,"Watertown Hotel - A Staypineapple Hotel 4242 Roosevelt Way NE, Seattle, WA 98105_0","Watertown Hotel - A Staypineapple Hotel 4242 Roosevelt Way NE, Seattle, WA 98105_0",1
+134,671,"Watertown Hotel - A Staypineapple Hotel 4242 Roosevelt Way NE, Seattle, WA 98105_0","University Inn - A Staypineapple Hotel 4140 Roosevelt Way NE, Seattle, WA 98105_0",0.43285378
+134,672,"Watertown Hotel - A Staypineapple Hotel 4242 Roosevelt Way NE, Seattle, WA 98105_0","Graduate Seattle 4507 Brooklyn Ave NE, Seattle, WA 98105_0",0.171740414
+134,673,"Watertown Hotel - A Staypineapple Hotel 4242 Roosevelt Way NE, Seattle, WA 98105_0","The College Inn 4000 University Way NE, Seattle, WA 98115_0",0.167354804
+134,674,"Watertown Hotel - A Staypineapple Hotel 4242 Roosevelt Way NE, Seattle, WA 98105_0","University Motel Suites 4731 12th Ave NE, Seattle, WA 98105_0",0.159804486
+135,675,"The State Hotel 1501 2nd Ave, Seattle, WA 98101_0","The State Hotel 1501 2nd Ave, Seattle, WA 98101_0",1
+135,676,"The State Hotel 1501 2nd Ave, Seattle, WA 98101_0","Moore Hotel 1926 2nd Ave, Seattle, WA 98101_0",0.24182356
+135,677,"The State Hotel 1501 2nd Ave, Seattle, WA 98101_0","The Charter Hotel Seattle, Curio Collection by Hilton 1610 2nd Ave, Seattle, WA 98101_0",0.172471363
+135,678,"The State Hotel 1501 2nd Ave, Seattle, WA 98101_0","Kimpton Palladian Hotel 2000 2nd Ave, Seattle, WA 98121_0",0.155043679
+135,679,"The State Hotel 1501 2nd Ave, Seattle, WA 98101_0","City Hostel Seattle 2327 2nd Ave, Seattle, WA 98121_0",0.148111554
+136,680,"Moore Hotel 1926 2nd Ave, Seattle, WA 98101_0","Moore Hotel 1926 2nd Ave, Seattle, WA 98101_0",1
+136,681,"Moore Hotel 1926 2nd Ave, Seattle, WA 98101_0","The State Hotel 1501 2nd Ave, Seattle, WA 98101_0",0.24182356
+136,682,"Moore Hotel 1926 2nd Ave, Seattle, WA 98101_0","The Charter Hotel Seattle, Curio Collection by Hilton 1610 2nd Ave, Seattle, WA 98101_0",0.177491404
+136,683,"Moore Hotel 1926 2nd Ave, Seattle, WA 98101_0","Kimpton Palladian Hotel 2000 2nd Ave, Seattle, WA 98121_0",0.171218841
+136,684,"Moore Hotel 1926 2nd Ave, Seattle, WA 98101_0","City Hostel Seattle 2327 2nd Ave, Seattle, WA 98121_0",0.163563513
+137,685,"The College Inn 4000 University Way NE, Seattle, WA 98115_0","The College Inn 4000 University Way NE, Seattle, WA 98115_0",1
+137,686,"The College Inn 4000 University Way NE, Seattle, WA 98115_0","University Inn - A Staypineapple Hotel 4140 Roosevelt Way NE, Seattle, WA 98105_0",0.19804377
+137,687,"The College Inn 4000 University Way NE, Seattle, WA 98115_0","Watertown Hotel - A Staypineapple Hotel 4242 Roosevelt Way NE, Seattle, WA 98105_0",0.167354804
+137,688,"The College Inn 4000 University Way NE, Seattle, WA 98115_0","University Motel Suites 4731 12th Ave NE, Seattle, WA 98105_0",0.0945549
+137,689,"The College Inn 4000 University Way NE, Seattle, WA 98115_0","Travelodge by Wyndham Seattle University 4725 25th Ave NE, Seattle, WA 98105_0",0.085984978
+138,690,"Hotel Five - A Staypineapple Hotel 2200 5th Ave, Seattle, WA 98121_0","Hotel Five - A Staypineapple Hotel 2200 5th Ave, Seattle, WA 98121_0",1
+138,691,"Hotel Five - A Staypineapple Hotel 2200 5th Ave, Seattle, WA 98121_0","Kings Inn 2106 5th Ave, Seattle, WA 98121_0",0.240865824
+138,692,"Hotel Five - A Staypineapple Hotel 2200 5th Ave, Seattle, WA 98121_0","Kimpton Hotel Vintage Seattle 1100 5th Ave, Seattle, WA 98101_0",0.155129196
+138,693,"Hotel Five - A Staypineapple Hotel 2200 5th Ave, Seattle, WA 98121_0","Hyatt House Seattle 201 5th Ave N, Seattle, WA 98109_0",0.154991968
+138,694,"Hotel Five - A Staypineapple Hotel 2200 5th Ave, Seattle, WA 98121_0","Hotel Andra 2000 4th Ave, Seattle, WA 98121_0",0.113460776
+139,695,"The Charter Hotel Seattle, Curio Collection by Hilton 1610 2nd Ave, Seattle, WA 98101_0","The Charter Hotel Seattle, Curio Collection by Hilton 1610 2nd Ave, Seattle, WA 98101_0",1
+139,696,"The Charter Hotel Seattle, Curio Collection by Hilton 1610 2nd Ave, Seattle, WA 98101_0","Moore Hotel 1926 2nd Ave, Seattle, WA 98101_0",0.177491404
+139,697,"The Charter Hotel Seattle, Curio Collection by Hilton 1610 2nd Ave, Seattle, WA 98101_0","The State Hotel 1501 2nd Ave, Seattle, WA 98101_0",0.172471363
+139,698,"The Charter Hotel Seattle, Curio Collection by Hilton 1610 2nd Ave, Seattle, WA 98101_0","The Sound Hotel Seattle Belltown, Tapestry Collection by Hilton 2120 4th Ave, Seattle, WA 98121_0",0.13654937
+139,699,"The Charter Hotel Seattle, Curio Collection by Hilton 1610 2nd Ave, Seattle, WA 98101_0","Kimpton Palladian Hotel 2000 2nd Ave, Seattle, WA 98121_0",0.114076795
+140,700,"Staybridge Suites Seattle Downtown - Lake Union 1119 Mercer St, Seattle, WA 98109_0","Staybridge Suites Seattle Downtown - Lake Union 1119 Mercer St, Seattle, WA 98109_0",1
+140,701,"Staybridge Suites Seattle Downtown - Lake Union 1119 Mercer St, Seattle, WA 98109_0","Residence Inn by Marriott Seattle Downtown/Lake Union 800 Fairview Ave N, Seattle, WA 98109_0",0.226815609
+140,702,"Staybridge Suites Seattle Downtown - Lake Union 1119 Mercer St, Seattle, WA 98109_0","Staybridge Suites Seattle - Fremont 3926 Aurora Ave N, Seattle, WA 98103_0",0.144486406
+140,703,"Staybridge Suites Seattle Downtown - Lake Union 1119 Mercer St, Seattle, WA 98109_0","Moxy Seattle Downtown 1016 Republican St, Seattle, WA 98109_0",0.134648109
+140,704,"Staybridge Suites Seattle Downtown - Lake Union 1119 Mercer St, Seattle, WA 98109_0","Quality Inn & Suites Seattle Center 618 John St, Seattle, WA 98109_0",0.125711433
+141,705,"University Inn - A Staypineapple Hotel 4140 Roosevelt Way NE, Seattle, WA 98105_0","University Inn - A Staypineapple Hotel 4140 Roosevelt Way NE, Seattle, WA 98105_0",1
+141,706,"University Inn - A Staypineapple Hotel 4140 Roosevelt Way NE, Seattle, WA 98105_0","Watertown Hotel - A Staypineapple Hotel 4242 Roosevelt Way NE, Seattle, WA 98105_0",0.43285378
+141,707,"University Inn - A Staypineapple Hotel 4140 Roosevelt Way NE, Seattle, WA 98105_0","The College Inn 4000 University Way NE, Seattle, WA 98115_0",0.19804377
+141,708,"University Inn - A Staypineapple Hotel 4140 Roosevelt Way NE, Seattle, WA 98105_0","University Motel Suites 4731 12th Ave NE, Seattle, WA 98105_0",0.184760093
+141,709,"University Inn - A Staypineapple Hotel 4140 Roosevelt Way NE, Seattle, WA 98105_0","Graduate Seattle 4507 Brooklyn Ave NE, Seattle, WA 98105_0",0.172381371
+142,710,"Talaris Conference Center 4000 NE 41st St, Seattle, WA 98105_0","Talaris Conference Center 4000 NE 41st St, Seattle, WA 98105_0",1
+142,711,"Talaris Conference Center 4000 NE 41st St, Seattle, WA 98105_0","Graduate Seattle 4507 Brooklyn Ave NE, Seattle, WA 98105_0",0.100951549
+142,712,"Talaris Conference Center 4000 NE 41st St, Seattle, WA 98105_0","University Motel Suites 4731 12th Ave NE, Seattle, WA 98105_0",0.09350676
+142,713,"Talaris Conference Center 4000 NE 41st St, Seattle, WA 98105_0","Hilton Seattle Airport & Conference Center 17620 International Blvd, Seattle, WA 98188_0",0.093290339
+142,714,"Talaris Conference Center 4000 NE 41st St, Seattle, WA 98105_0","University Inn - A Staypineapple Hotel 4140 Roosevelt Way NE, Seattle, WA 98105_0",0.088034055
+143,715,"The Sound Hotel Seattle Belltown, Tapestry Collection by Hilton 2120 4th Ave, Seattle, WA 98121_0","The Sound Hotel Seattle Belltown, Tapestry Collection by Hilton 2120 4th Ave, Seattle, WA 98121_0",1
+143,716,"The Sound Hotel Seattle Belltown, Tapestry Collection by Hilton 2120 4th Ave, Seattle, WA 98121_0","Hotel Andra 2000 4th Ave, Seattle, WA 98121_0",0.176150211
+143,717,"The Sound Hotel Seattle Belltown, Tapestry Collection by Hilton 2120 4th Ave, Seattle, WA 98121_0","Vermont Inn 2721 4th Ave, Seattle, WA 98121_0",0.168384614
+143,718,"The Sound Hotel Seattle Belltown, Tapestry Collection by Hilton 2120 4th Ave, Seattle, WA 98121_0","Stay Alfred on 4th Avenue 2201 4th Ave, Seattle, WA 98121_0",0.142191313
+143,719,"The Sound Hotel Seattle Belltown, Tapestry Collection by Hilton 2120 4th Ave, Seattle, WA 98121_0","The Charter Hotel Seattle, Curio Collection by Hilton 1610 2nd Ave, Seattle, WA 98101_0",0.13654937
+144,720,"Gaslight Inn 1727 15th Ave, Seattle, WA 98122_0","Gaslight Inn 1727 15th Ave, Seattle, WA 98122_0",1
+144,721,"Gaslight Inn 1727 15th Ave, Seattle, WA 98122_0","Mozart Guest House 1013 15th Ave E, Seattle, WA 98112_0",0.175247354
+144,722,"Gaslight Inn 1727 15th Ave, Seattle, WA 98122_0","Mildred's Bed and Breakfast 1202 15th Ave E, Seattle, WA 98112_0",0.168930588
+144,723,"Gaslight Inn 1727 15th Ave, Seattle, WA 98122_0","First Hill Apartments 400 10th Ave, Seattle, WA 98122_0",0.165729303
+144,724,"Gaslight Inn 1727 15th Ave, Seattle, WA 98122_0","Bed and Breakfast Inn Seattle 1808 E Denny Way, Seattle, WA 98122_0",0.108104016
+145,725,"Stay Alfred on 1st Avenue 1200 Western Ave, Seattle, WA 98101_0","Stay Alfred on 1st Avenue 1200 Western Ave, Seattle, WA 98101_0",1
+145,726,"Stay Alfred on 1st Avenue 1200 Western Ave, Seattle, WA 98101_0","Stay Alfred on 4th Avenue 2201 4th Ave, Seattle, WA 98121_0",0.191043331
+145,727,"Stay Alfred on 1st Avenue 1200 Western Ave, Seattle, WA 98101_0","Stay Alfred on Elliott Avenue 2334 Elliott Ave, Seattle, WA 98121_0",0.182105163
+145,728,"Stay Alfred on 1st Avenue 1200 Western Ave, Seattle, WA 98101_0","Stay Alfred on Wall Street 2515 4th Ave, Seattle, WA 98121_0",0.175482041
+145,729,"Stay Alfred on 1st Avenue 1200 Western Ave, Seattle, WA 98101_0","Homewood Suites by Hilton Seattle Downtown 206 Western Ave W, Seattle, WA 98119_0",0.141052394
+146,730,"WorldMark Seattle - The Camlin 1619 9th Ave, Seattle, WA 98101_0","WorldMark Seattle - The Camlin 1619 9th Ave, Seattle, WA 98101_0",1
+146,731,"WorldMark Seattle - The Camlin 1619 9th Ave, Seattle, WA 98101_0","The Halcyon Suite Du Jour 1125 9th Ave W, Seattle, WA 98119_0",0.155829457
+146,732,"WorldMark Seattle - The Camlin 1619 9th Ave, Seattle, WA 98101_0","W Seattle 1112 4th Ave, Seattle, WA 98101_0",0.1013745
+146,733,"WorldMark Seattle - The Camlin 1619 9th Ave, Seattle, WA 98101_0","The State Hotel 1501 2nd Ave, Seattle, WA 98101_0",0.090333288
+146,734,"WorldMark Seattle - The Camlin 1619 9th Ave, Seattle, WA 98101_0","Moore Hotel 1926 2nd Ave, Seattle, WA 98101_0",0.084005161
+147,735,"Inn at the WAC 1325 6th Ave, Seattle, WA 98101_0","Inn at the WAC 1325 6th Ave, Seattle, WA 98101_0",1
+147,736,"Inn at the WAC 1325 6th Ave, Seattle, WA 98101_0","Crowne Plaza Seattle Downtown 1113 6th Ave, Seattle, WA 98101_0",0.196512014
+147,737,"Inn at the WAC 1325 6th Ave, Seattle, WA 98101_0","Inn at the Market 86 Pine St, Seattle, WA 98101_0",0.187592152
+147,738,"Inn at the WAC 1325 6th Ave, Seattle, WA 98101_0","Hyatt Place Seattle 110 6th Ave N, Seattle, WA 98109_0",0.148661114
+147,739,"Inn at the WAC 1325 6th Ave, Seattle, WA 98101_0","Travelodge Seattle by The Space Needle 200 6th Ave N, Seattle, WA 98109_0",0.138873857
+148,740,"Mozart Guest House 1013 15th Ave E, Seattle, WA 98112_0","Mozart Guest House 1013 15th Ave E, Seattle, WA 98112_0",1
+148,741,"Mozart Guest House 1013 15th Ave E, Seattle, WA 98112_0","Mildred's Bed and Breakfast 1202 15th Ave E, Seattle, WA 98112_0",0.282534065
+148,742,"Mozart Guest House 1013 15th Ave E, Seattle, WA 98112_0","Gaslight Inn 1727 15th Ave, Seattle, WA 98122_0",0.175247354
+148,743,"Mozart Guest House 1013 15th Ave E, Seattle, WA 98112_0","Shafer Baillie Mansion Bed & Breakfast 907 14th Ave E, Seattle, WA 98112_0",0.133486731
+148,744,"Mozart Guest House 1013 15th Ave E, Seattle, WA 98112_0","Hyatt House Seattle 201 5th Ave N, Seattle, WA 98109_0",0.05590631
+149,745,"Hyatt Regency Lake Washington At SeattleS Southport 1053 Lake Washington Blvd N, Renton, WA 98056_0","Hyatt Regency Lake Washington At SeattleS Southport 1053 Lake Washington Blvd N, Renton, WA 98056_0",1
+149,746,"Hyatt Regency Lake Washington At SeattleS Southport 1053 Lake Washington Blvd N, Renton, WA 98056_0","Hyatt Regency Lake Washington At SeattleS Southport 1053 Lake WA Boulevard North, Renton, Washington 98056_0",0.614370735
+149,747,"Hyatt Regency Lake Washington At SeattleS Southport 1053 Lake Washington Blvd N, Renton, WA 98056_0","Econo Lodge Renton-Bellevue 4710 Lake Washington Blvd NE, Renton, WA 98056_0",0.24218725
+149,748,"Hyatt Regency Lake Washington At SeattleS Southport 1053 Lake Washington Blvd N, Renton, WA 98056_0","Hyatt Regency Seattle 808 Howell St, Seattle, WA 98101_0",0.072476258
+149,749,"Hyatt Regency Lake Washington At SeattleS Southport 1053 Lake Washington Blvd N, Renton, WA 98056_0","Hyatt At Olive 8 1635 8th Ave, Seattle, WA 98101_0",0.038896673
+150,750,"Pensione Nichols Bed and Breakfast 1923 1st Ave, Seattle, WA 98101_0","Pensione Nichols Bed and Breakfast 1923 1st Ave, Seattle, WA 98101_0",1
+150,751,"Pensione Nichols Bed and Breakfast 1923 1st Ave, Seattle, WA 98101_0","Mildred's Bed and Breakfast 1202 15th Ave E, Seattle, WA 98112_0",0.155777233
+150,752,"Pensione Nichols Bed and Breakfast 1923 1st Ave, Seattle, WA 98101_0","11th Avenue Inn Bed and Breakfast 121 11th Ave E, Seattle, WA 98102_0",0.133944612
+150,753,"Pensione Nichols Bed and Breakfast 1923 1st Ave, Seattle, WA 98101_0","Bed and Breakfast Inn Seattle 1808 E Denny Way, Seattle, WA 98122_0",0.133541956
+150,754,"Pensione Nichols Bed and Breakfast 1923 1st Ave, Seattle, WA 98101_0","Ace Hotel Seattle 2423 1st Ave, Seattle, WA 98121_0",0.12216093
+151,755,"Bed and Breakfast Inn Seattle 1808 E Denny Way, Seattle, WA 98122_0","Bed and Breakfast Inn Seattle 1808 E Denny Way, Seattle, WA 98122_0",1
+151,756,"Bed and Breakfast Inn Seattle 1808 E Denny Way, Seattle, WA 98122_0","Mildred's Bed and Breakfast 1202 15th Ave E, Seattle, WA 98112_0",0.136305129
+151,757,"Bed and Breakfast Inn Seattle 1808 E Denny Way, Seattle, WA 98122_0","Pensione Nichols Bed and Breakfast 1923 1st Ave, Seattle, WA 98101_0",0.133541956
+151,758,"Bed and Breakfast Inn Seattle 1808 E Denny Way, Seattle, WA 98122_0","11th Avenue Inn Bed and Breakfast 121 11th Ave E, Seattle, WA 98102_0",0.123148515
+151,759,"Bed and Breakfast Inn Seattle 1808 E Denny Way, Seattle, WA 98122_0","The Bacon Mansion Bed and Breakfast 4528, 959 Broadway E, Seattle, WA 98102_0",0.11375783
+152,760,"Civic Hotel 325 7th Ave, Seattle, WA 98109_0","Civic Hotel 325 7th Ave, Seattle, WA 98109_0",1
+152,761,"Civic Hotel 325 7th Ave, Seattle, WA 98109_0","Hotel Theodore 1531 7th Ave, Seattle, WA 98101_0",0.246955697
+152,762,"Civic Hotel 325 7th Ave, Seattle, WA 98109_0","MarQueen Hotel 600 Queen Anne Ave N, Seattle, WA 98109_0",0.10630226
+152,763,"Civic Hotel 325 7th Ave, Seattle, WA 98109_0","Hyatt Place Seattle 110 6th Ave N, Seattle, WA 98109_0",0.101500055
+152,764,"Civic Hotel 325 7th Ave, Seattle, WA 98109_0","Hyatt House Seattle 201 5th Ave N, Seattle, WA 98109_0",0.100945909
+153,765,"Stay Alfred on Elliott Avenue 2334 Elliott Ave, Seattle, WA 98121_0","Stay Alfred on Elliott Avenue 2334 Elliott Ave, Seattle, WA 98121_0",1
+153,766,"Stay Alfred on Elliott Avenue 2334 Elliott Ave, Seattle, WA 98121_0","Stay Alfred on 4th Avenue 2201 4th Ave, Seattle, WA 98121_0",0.234413245
+153,767,"Stay Alfred on Elliott Avenue 2334 Elliott Ave, Seattle, WA 98121_0","Stay Alfred on Wall Street 2515 4th Ave, Seattle, WA 98121_0",0.219487892
+153,768,"Stay Alfred on Elliott Avenue 2334 Elliott Ave, Seattle, WA 98121_0","Stay Alfred on 1st Avenue 1200 Western Ave, Seattle, WA 98101_0",0.182105163
+153,769,"Stay Alfred on Elliott Avenue 2334 Elliott Ave, Seattle, WA 98121_0","Ace Hotel Seattle 2423 1st Ave, Seattle, WA 98121_0",0.087494525
+154,770,"Shafer Baillie Mansion Bed & Breakfast 907 14th Ave E, Seattle, WA 98112_0","Shafer Baillie Mansion Bed & Breakfast 907 14th Ave E, Seattle, WA 98112_0",1
+154,771,"Shafer Baillie Mansion Bed & Breakfast 907 14th Ave E, Seattle, WA 98112_0","Mildred's Bed and Breakfast 1202 15th Ave E, Seattle, WA 98112_0",0.169947638
+154,772,"Shafer Baillie Mansion Bed & Breakfast 907 14th Ave E, Seattle, WA 98112_0","Mozart Guest House 1013 15th Ave E, Seattle, WA 98112_0",0.133486731
+154,773,"Shafer Baillie Mansion Bed & Breakfast 907 14th Ave E, Seattle, WA 98112_0","The Bacon Mansion Bed and Breakfast 4528, 959 Broadway E, Seattle, WA 98102_0",0.091420297
+154,774,"Shafer Baillie Mansion Bed & Breakfast 907 14th Ave E, Seattle, WA 98112_0","Pensione Nichols Bed and Breakfast 1923 1st Ave, Seattle, WA 98101_0",0.055583892
+155,775,"11th Avenue Inn Bed and Breakfast 121 11th Ave E, Seattle, WA 98102_0","11th Avenue Inn Bed and Breakfast 121 11th Ave E, Seattle, WA 98102_0",1
+155,776,"11th Avenue Inn Bed and Breakfast 121 11th Ave E, Seattle, WA 98102_0","The Bacon Mansion Bed and Breakfast 4528, 959 Broadway E, Seattle, WA 98102_0",0.17181926
+155,777,"11th Avenue Inn Bed and Breakfast 121 11th Ave E, Seattle, WA 98102_0","Mildred's Bed and Breakfast 1202 15th Ave E, Seattle, WA 98112_0",0.136716117
+155,778,"11th Avenue Inn Bed and Breakfast 121 11th Ave E, Seattle, WA 98102_0","Roy Street Commons 621 12th Ave E, Seattle, WA 98102_0",0.134842157
+155,779,"11th Avenue Inn Bed and Breakfast 121 11th Ave E, Seattle, WA 98102_0","Pensione Nichols Bed and Breakfast 1923 1st Ave, Seattle, WA 98101_0",0.133944612
+156,780,"Hyatt Regency Lake Washington At SeattleS Southport 1053 Lake WA Boulevard North, Renton, Washington 98056_0","Hyatt Regency Lake Washington At SeattleS Southport 1053 Lake WA Boulevard North, Renton, Washington 98056_0",1
+156,781,"Hyatt Regency Lake Washington At SeattleS Southport 1053 Lake WA Boulevard North, Renton, Washington 98056_0","Hyatt Regency Lake Washington At SeattleS Southport 1053 Lake Washington Blvd N, Renton, WA 98056_0",0.614370735
+156,782,"Hyatt Regency Lake Washington At SeattleS Southport 1053 Lake WA Boulevard North, Renton, Washington 98056_0","Econo Lodge Renton-Bellevue 4710 Lake Washington Blvd NE, Renton, WA 98056_0",0.103552221
+156,783,"Hyatt Regency Lake Washington At SeattleS Southport 1053 Lake WA Boulevard North, Renton, Washington 98056_0","Hyatt Regency Seattle 808 Howell St, Seattle, WA 98101_0",0.068939334
+156,784,"Hyatt Regency Lake Washington At SeattleS Southport 1053 Lake WA Boulevard North, Renton, Washington 98056_0","citizenM Seattle South Lake Union hotel 201 Westlake Avenue North, Seattle, Washington 98109_0",0.048119181
+157,785,"Oakwood Seattle South Lake Union 717 Dexter Ave N, Seattle, WA 98109_0","Oakwood Seattle South Lake Union 717 Dexter Ave N, Seattle, WA 98109_0",1
+157,786,"Oakwood Seattle South Lake Union 717 Dexter Ave N, Seattle, WA 98109_0","citizenM Seattle South Lake Union hotel 201 Westlake Ave N, Seattle, WA 98109_0",0.286783921
+157,787,"Oakwood Seattle South Lake Union 717 Dexter Ave N, Seattle, WA 98109_0","EVEN Hotel Seattle - South Lake Union 527 Fairview Ave N, Seattle, WA 98109_0",0.28323161
+157,788,"Oakwood Seattle South Lake Union 717 Dexter Ave N, Seattle, WA 98109_0","Holiday Inn Seattle Downtown 211 Dexter Ave N, Seattle, WA 98109_0",0.230189874
+157,789,"Oakwood Seattle South Lake Union 717 Dexter Ave N, Seattle, WA 98109_0","citizenM Seattle South Lake Union hotel 201 Westlake Avenue North, Seattle, Washington 98109_0",0.210427033
+158,790,"citizenM Seattle South Lake Union hotel 201 Westlake Avenue North, Seattle, Washington 98109_0","citizenM Seattle South Lake Union hotel 201 Westlake Avenue North, Seattle, Washington 98109_0",1
+158,791,"citizenM Seattle South Lake Union hotel 201 Westlake Avenue North, Seattle, Washington 98109_0","citizenM Seattle South Lake Union hotel 201 Westlake Ave N, Seattle, WA 98109_0",0.65196142
+158,792,"citizenM Seattle South Lake Union hotel 201 Westlake Avenue North, Seattle, Washington 98109_0","Travelodge Seattle by The Space Needle 200 6th Avenue North, Seattle, Washington 98109_0",0.23122775
+158,793,"citizenM Seattle South Lake Union hotel 201 Westlake Avenue North, Seattle, Washington 98109_0","Holiday Inn Express & Suites Seattle City Center 226 Aurora Avenue North, Seattle, Washington 98109_0",0.223168654
+158,794,"citizenM Seattle South Lake Union hotel 201 Westlake Avenue North, Seattle, Washington 98109_0","Oakwood Seattle South Lake Union 717 Dexter Ave N, Seattle, WA 98109_0",0.210427033
+159,795,"Mildred's Bed and Breakfast 1202 15th Ave E, Seattle, WA 98112_0","Mildred's Bed and Breakfast 1202 15th Ave E, Seattle, WA 98112_0",1
+159,796,"Mildred's Bed and Breakfast 1202 15th Ave E, Seattle, WA 98112_0","Mozart Guest House 1013 15th Ave E, Seattle, WA 98112_0",0.282534065
+159,797,"Mildred's Bed and Breakfast 1202 15th Ave E, Seattle, WA 98112_0","Shafer Baillie Mansion Bed & Breakfast 907 14th Ave E, Seattle, WA 98112_0",0.169947638
+159,798,"Mildred's Bed and Breakfast 1202 15th Ave E, Seattle, WA 98112_0","Gaslight Inn 1727 15th Ave, Seattle, WA 98122_0",0.168930588
+159,799,"Mildred's Bed and Breakfast 1202 15th Ave E, Seattle, WA 98112_0","Pensione Nichols Bed and Breakfast 1923 1st Ave, Seattle, WA 98101_0",0.155777233
+160,800,"First Hill Apartments 400 10th Ave, Seattle, WA 98122_0","First Hill Apartments 400 10th Ave, Seattle, WA 98122_0",1
+160,801,"First Hill Apartments 400 10th Ave, Seattle, WA 98122_0","Gaslight Inn 1727 15th Ave, Seattle, WA 98122_0",0.165729303
+160,802,"First Hill Apartments 400 10th Ave, Seattle, WA 98122_0","Silver Cloud Hotel - Seattle Broadway 1100 Broadway, Seattle, WA 98122_0",0.089575132
+160,803,"First Hill Apartments 400 10th Ave, Seattle, WA 98122_0","Bed and Breakfast Inn Seattle 1808 E Denny Way, Seattle, WA 98122_0",0.087055261
+160,804,"First Hill Apartments 400 10th Ave, Seattle, WA 98122_0","Executive Hotel Pacific 400 Spring St, Seattle, WA 98104_0",0.04509327
+161,805,"Hampton Inn Seattle/Southcenter 7200 S 156th St, Tukwila, WA 98188_0","Hampton Inn Seattle/Southcenter 7200 S 156th St, Tukwila, WA 98188_0",1
+161,806,"Hampton Inn Seattle/Southcenter 7200 S 156th St, Tukwila, WA 98188_0","Hampton Inn Seattle-Airport 19445 International Blvd, Seattle, WA 98188_0",0.168640725
+161,807,"Hampton Inn Seattle/Southcenter 7200 S 156th St, Tukwila, WA 98188_0","Home2 Suites by Hilton Seattle Airport 380 Upland Dr, Tukwila, WA 98188_0",0.096830456
+161,808,"Hampton Inn Seattle/Southcenter 7200 S 156th St, Tukwila, WA 98188_0","Homewood Suites by Hilton Seattle-Tacoma Airport/Tukwila 6955 Fort Dent Way, Tukwila, WA 98188_0",0.092498257
+161,809,"Hampton Inn Seattle/Southcenter 7200 S 156th St, Tukwila, WA 98188_0","Knights Inn Tukwila 14110 Tukwila International Blvd, Tukwila, WA 98168_0",0.074149584
+162,810,"The Halcyon Suite Du Jour 1125 9th Ave W, Seattle, WA 98119_0","The Halcyon Suite Du Jour 1125 9th Ave W, Seattle, WA 98119_0",1
+162,811,"The Halcyon Suite Du Jour 1125 9th Ave W, Seattle, WA 98119_0","WorldMark Seattle - The Camlin 1619 9th Ave, Seattle, WA 98101_0",0.155829457
+162,812,"The Halcyon Suite Du Jour 1125 9th Ave W, Seattle, WA 98119_0","Homewood Suites by Hilton Seattle Downtown 206 Western Ave W, Seattle, WA 98119_0",0.135294374
+162,813,"The Halcyon Suite Du Jour 1125 9th Ave W, Seattle, WA 98119_0","The State Hotel 1501 2nd Ave, Seattle, WA 98101_0",0.030047611
+162,814,"The Halcyon Suite Du Jour 1125 9th Ave W, Seattle, WA 98119_0","The Loyal Inn 2301 8th Ave, Seattle, WA 98121_0",0.029458722
+163,815,"Vermont Inn 2721 4th Ave, Seattle, WA 98121_0","Vermont Inn 2721 4th Ave, Seattle, WA 98121_0",1
+163,816,"Vermont Inn 2721 4th Ave, Seattle, WA 98121_0","Hotel Andra 2000 4th Ave, Seattle, WA 98121_0",0.267788729
+163,817,"Vermont Inn 2721 4th Ave, Seattle, WA 98121_0","Stay Alfred on 4th Avenue 2201 4th Ave, Seattle, WA 98121_0",0.225089581
+163,818,"Vermont Inn 2721 4th Ave, Seattle, WA 98121_0","W Seattle 1112 4th Ave, Seattle, WA 98101_0",0.209640844
+163,819,"Vermont Inn 2721 4th Ave, Seattle, WA 98121_0","Stay Alfred on Wall Street 2515 4th Ave, Seattle, WA 98121_0",0.205449258
+164,820,"Stay Alfred on Wall Street 2515 4th Ave, Seattle, WA 98121_0","Stay Alfred on Wall Street 2515 4th Ave, Seattle, WA 98121_0",1
+164,821,"Stay Alfred on Wall Street 2515 4th Ave, Seattle, WA 98121_0","Stay Alfred on 4th Avenue 2201 4th Ave, Seattle, WA 98121_0",0.333448599
+164,822,"Stay Alfred on Wall Street 2515 4th Ave, Seattle, WA 98121_0","Stay Alfred on Elliott Avenue 2334 Elliott Ave, Seattle, WA 98121_0",0.219487892
+164,823,"Stay Alfred on Wall Street 2515 4th Ave, Seattle, WA 98121_0","Hotel Andra 2000 4th Ave, Seattle, WA 98121_0",0.206511331
+164,824,"Stay Alfred on Wall Street 2515 4th Ave, Seattle, WA 98121_0","Vermont Inn 2721 4th Ave, Seattle, WA 98121_0",0.205449258
+165,825,"Pike's Place Lux Suites by Barsala 2nd Ave and Stewart St, Seattle, WA 98101_A","Pike's Place Lux Suites by Barsala 2nd Ave and Stewart St, Seattle, WA 98101_A",1
+165,826,"Pike's Place Lux Suites by Barsala 2nd Ave and Stewart St, Seattle, WA 98101_A","Pike's Place Lux Suites by Barsala 2rd Ave and Stewart St, Seattle, WA 98101_a",0.73401622
+165,827,"Pike's Place Lux Suites by Barsala 2nd Ave and Stewart St, Seattle, WA 98101_A","Thompson Seattle 110 Stewart St, Seattle, WA 98101_0",0.153730361
+165,828,"Pike's Place Lux Suites by Barsala 2nd Ave and Stewart St, Seattle, WA 98101_A","Hotel Max 620 Stewart St, Seattle, WA 98101_0",0.150801712
+165,829,"Pike's Place Lux Suites by Barsala 2nd Ave and Stewart St, Seattle, WA 98101_A","Homewood Suites by Hilton Seattle Convention Center Pike Street 1011 Pike St, Seattle, WA 98101_0",0.083935514
+166,830,"Pike's Place Lux Suites by Barsala 2rd Ave and Stewart St, Seattle, WA 98101_a","Pike's Place Lux Suites by Barsala 2rd Ave and Stewart St, Seattle, WA 98101_a",1
+166,831,"Pike's Place Lux Suites by Barsala 2rd Ave and Stewart St, Seattle, WA 98101_a","Pike's Place Lux Suites by Barsala 2nd Ave and Stewart St, Seattle, WA 98101_A",0.73401622
+166,832,"Pike's Place Lux Suites by Barsala 2rd Ave and Stewart St, Seattle, WA 98101_a","Thompson Seattle 110 Stewart St, Seattle, WA 98101_0",0.151837479
+166,833,"Pike's Place Lux Suites by Barsala 2rd Ave and Stewart St, Seattle, WA 98101_a","Hotel Max 620 Stewart St, Seattle, WA 98101_0",0.14894489
+166,834,"Pike's Place Lux Suites by Barsala 2rd Ave and Stewart St, Seattle, WA 98101_a","Homewood Suites by Hilton Seattle Convention Center Pike Street 1011 Pike St, Seattle, WA 98101_0",0.082902015
+167,835,"citizenM Seattle South Lake Union hotel 201 Westlake Ave N, Seattle, WA 98109_0","citizenM Seattle South Lake Union hotel 201 Westlake Ave N, Seattle, WA 98109_0",1
+167,836,"citizenM Seattle South Lake Union hotel 201 Westlake Ave N, Seattle, WA 98109_0","citizenM Seattle South Lake Union hotel 201 Westlake Avenue North, Seattle, Washington 98109_0",0.65196142
+167,837,"citizenM Seattle South Lake Union hotel 201 Westlake Ave N, Seattle, WA 98109_0","Oakwood Seattle South Lake Union 717 Dexter Ave N, Seattle, WA 98109_0",0.286783921
+167,838,"citizenM Seattle South Lake Union hotel 201 Westlake Ave N, Seattle, WA 98109_0","EVEN Hotel Seattle - South Lake Union 527 Fairview Ave N, Seattle, WA 98109_0",0.281324969
+167,839,"citizenM Seattle South Lake Union hotel 201 Westlake Ave N, Seattle, WA 98109_0","Silver Cloud Inn - Seattle Lake Union 1150 Fairview Ave N, Seattle, WA 98109_0",0.122702122
